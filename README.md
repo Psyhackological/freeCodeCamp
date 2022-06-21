@@ -2,14 +2,17 @@
     <img src="https://opensource.freecodecamp.org/design-style-guide/img/fcc_primary_large.svg" alt="freeCodeCamp" width="75%">
 </div>
 
-# Current progress 1/10 | 28:11:36 ⬜⬜⬜ ✔️⬜⬜⬜ ⬜ ⬜ ⬜
+# Current progress 1/11 | 30:54:31 ⬜⬜⬜⬜ ✔️⬜⬜⬜ ⬜⬜⬜
 
-# 🐍 Python 0/3 ⬜⬜⬜
+# 🐍 Python 0/4 ⬜⬜⬜⬜
 
 ![PythonAutomationTutorialThumbnail](https://i3.ytimg.com/vi/s8XjEuplx_U/mqdefault.jpg)
 - [ ] [Python Automation Tutorial – How to Automate Tasks for Beginners [Full Course] | 3:10:30](https://youtu.be/s8XjEuplx_U)
 
-![Django TutorialThumbnail](https://i3.ytimg.com/vi/0oSsLbh_Kv4/mqdefault.jpg)
+![AutomateWithPythonThumbnail](https://i3.ytimg.com/vi/PXMJ6FS7llk/mqdefault.jpg)
+- [ ] [Automate with Python – Full Course for Beginners | 2:42:55](https://youtu.be/PXMJ6FS7llk)
+
+![DjangoTutorialThumbnail](https://i3.ytimg.com/vi/0oSsLbh_Kv4/mqdefault.jpg)
 - [ ] [Django Tutorial - Create a Digital Resume with a Python Backend | 1:22:23](https://youtu.be/0oSsLbh_Kv4)
 
 ![Django/TailwindTutorialThumbnail](https://i3.ytimg.com/vi/gbyYXgiSgdM/mqdefault.jpg)
