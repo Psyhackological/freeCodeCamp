@@ -101,10 +101,10 @@
 # 🐧 Linux 1/4 ✔️⬜⬜⬜
 [![VimTutorialForBeginnersThumbnail](https://i3.ytimg.com/vi/RZ4p-saaQkc/mqdefault.jpg)](https://youtu.be/RZ4p-saaQkc)
 - [x] [Vim Tutorial for Beginners | 1:14:29](https://youtu.be/RZ4p-saaQkc)
-    - [ ] (0:00:00) Intro
-    - [ ] (0:25:00) Pomodoro 1
-    - [ ] (0:50:00) Pomodoro 2
-    - [ ] (1:14:29) Pomodoro 3
+    - [x] (0:00:00) Intro
+    - [x] (0:25:00) Pomodoro 1
+    - [x] (0:50:00) Pomodoro 2
+    - [x] (1:14:29) Pomodoro 3
 
 [![LinuxOperatingSystemThumbnail](https://i3.ytimg.com/vi/ROjZy1WbCIA/mqdefault.jpg)](https://youtu.be/ROjZy1WbCIA)
 - [ ] [Linux Operating System - Crash Course for Beginners | 2:47:56](https://youtu.be/ROjZy1WbCIA)
