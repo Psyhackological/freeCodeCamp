@@ -2,7 +2,9 @@
     <img src="https://opensource.freecodecamp.org/design-style-guide/img/fcc_primary_large.svg" alt="freeCodeCamp" width="75%">
 </div>
 
-# Current progress 1/11 | 30:54:31 ⬜⬜⬜⬜ ✔️⬜⬜⬜ ⬜⬜⬜
+# Current progress 1/11 | 30:54:31 
+
+⬜⬜⬜⬜ ✔️⬜⬜⬜ ⬜⬜⬜
 
 # 🐍 Python 0/4 ⬜⬜⬜⬜
 
