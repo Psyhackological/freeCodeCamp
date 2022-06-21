@@ -211,7 +211,7 @@
 
 # 🦀 Rust 0/1 ⬜
 [![RustProgrammingCourseThumbnail](https://i3.ytimg.com/vi/MsocPEZBd-M/mqdefault.jpg)](https://youtu.be/MsocPEZBd-M)
-    - [ ] [Rust Programming Course for Beginners - Tutorial | 1:25:37](https://youtu.be/MsocPEZBd-M)
+- [ ] [Rust Programming Course for Beginners - Tutorial | 1:25:37](https://youtu.be/MsocPEZBd-M)
     - [ ] (00:00) Course Introduction
     - [ ] (01:16) Rust Overview
     - [ ] (02:00) Initialising the CLI Calculator
