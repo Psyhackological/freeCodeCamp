@@ -212,34 +212,34 @@
 # 🦀 Rust 0/1 ⬜
 [![RustProgrammingCourseThumbnail](https://i3.ytimg.com/vi/MsocPEZBd-M/mqdefault.jpg)](https://youtu.be/MsocPEZBd-M)
 - [ ] [Rust Programming Course for Beginners - Tutorial | 1:25:37](https://youtu.be/MsocPEZBd-M)
-    - [ ] (00:00) Course Introduction
-    - [ ] (01:16) Rust Overview
-    - [ ] (02:00) Initialising the CLI Calculator
-    - [ ] (04:25) Handling Environment Arguments
-    - [ ] (09:00) Understanding the nth Method
-    - [ ] (16:00) Parsing Strings into Floats
-    - [ ] (18:05) Declaring a Function
-    - [ ] (18:30) If Statements
-    - [ ] (21:20) Implicit Returns
-    - [ ] (22:25) Parsing String into Char
-    - [ ] (23:20) Formatting Output
-    - [ ] (25:20) Match Control Flow
-    - [ ] (27:05) Panicking!
-    - [ ] (28:30) Building a Release
-    - [ ] (29:30) Initialising the Image Combiner
-    - [ ] (30:00) Creating Args Module
-    - [ ] (31:08) Structs
-    - [ ] (32:30) Declaring the New Module
-    - [ ] (33:20) Private vs Public
-    - [ ] (34:30) Implementing the New Function
-    - [ ] (36:40) Deriving the Debug Trait
-    - [ ] (37:40) Using get_nth_arg in Struct
-    - [ ] (38:57) External Crates
-    - [ ] (39:52) Decoding Images
-    - [ ] (43:15) Destructuring Tuples
-    - [ ] (43:56) Importing Missing Types
-    - [ ] (44:35) Handling Format Errors with Result
-    - [ ] (46:00) Enums
+    - [x] (00:00) Course Introduction
+    - [x] (01:16) Rust Overview
+    - [x] (02:00) Initialising the CLI Calculator
+    - [x] (04:25) Handling Environment Arguments
+    - [x] (09:00) Understanding the nth Method
+    - [x] (16:00) Parsing Strings into Floats
+    - [x] (18:05) Declaring a Function
+    - [x] (18:30) If Statements
+    - [x] (21:20) Implicit Returns
+    - [x] (22:25) Parsing String into Char
+    - [x] (23:20) Formatting Output
+    - [x] (25:20) Match Control Flow
+    - [x] (27:05) Panicking!
+    - [x] (28:30) Building a Release
+    - [x] (29:30) Initialising the Image Combiner
+    - [x] (30:00) Creating Args Module
+    - [x] (31:08) Structs
+    - [x] (32:30) Declaring the New Module
+    - [x] (33:20) Private vs Public
+    - [x] (34:30) Implementing the New Function
+    - [x] (36:40) Deriving the Debug Trait
+    - [x] (37:40) Using get_nth_arg in Struct
+    - [x] (38:57) External Crates
+    - [x] (39:52) Decoding Images
+    - [x] (43:15) Destructuring Tuples
+    - [x] (43:56) Importing Missing Types
+    - [x] (44:35) Handling Format Errors with Result
+    - [x] (46:00) Enums
     - [ ] (47:20) Resizing Images
     - [ ] (55:00) FloatingImage Struct
     - [ ] (56:35) Buffers with Vecs
