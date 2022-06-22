@@ -2,7 +2,7 @@
 
 # Current progress 1/11 | 30:54:31 
 
-# ⬜⬜⬜⬜ ✔️⬜⬜⬜ ⬜⬜⬜
+# ⬜⬜⬜⬜ ✔️⬜⬜⬜ ✔️ ⬜ ⬜
 
 # 🐍 Python 0/4 ⬜⬜⬜⬜
 
@@ -240,19 +240,19 @@
     - [x] (43:56) Importing Missing Types
     - [x] (44:35) Handling Format Errors with Result
     - [x] (46:00) Enums
-    - [ ] (47:20) Resizing Images
-    - [ ] (55:00) FloatingImage Struct
-    - [ ] (56:35) Buffers with Vecs
-    - [ ] (58:15) TryInto Conversions
-    - [ ] (1:00:05) Deriving Debug for Enums
-    - [ ] (1:00:40) Running the Code with Images
-    - [ ] (1:02:25) Combining the Image Pixels
-    - [ ] (1:11:20) Understanding Borrows and References
-    - [ ] (1:12:15) Creating Methods
-    - [ ] (1:15:20) Error Propagation
-    - [ ] (1:15:53) Saving the New Image
-    - [ ] (1:17:30) Using the Image Combiner
-    - [ ] (1:18:20) Better Error Handling
+    - [x] (47:20) Resizing Images
+    - [x] (55:00) FloatingImage Struct
+    - [x] (56:35) Buffers with Vecs
+    - [x] (58:15) TryInto Conversions
+    - [x] (1:00:05) Deriving Debug for Enums
+    - [x] (1:00:40) Running the Code with Images
+    - [x] (1:02:25) Combining the Image Pixels
+    - [x] (1:11:20) Understanding Borrows and References
+    - [x] (1:12:15) Creating Methods
+    - [x] (1:15:20) Error Propagation
+    - [x] (1:15:53) Saving the New Image
+    - [x] (1:17:30) Using the Image Combiner
+    - [x] (1:18:20) Better Error Handling
 
 # ⭕ Big O Notation 0/1 ⬜
 [![BigONotationThumbnail](https://i3.ytimg.com/vi/Mo4vesaut8g/mqdefault.jpg)](https://youtu.be/Mo4vesaut8g)
