@@ -1,6 +1,6 @@
 ![freeCodeCampLogo](https://opensource.freecodecamp.org/design-style-guide/img/fcc_primary_large.svg)
 
-# Current progress 1/11 | 30:54:31 
+# Current progress 1/11 | 2:40:06 / 30:54:31
 
 # ⬜⬜⬜⬜ ✔️⬜⬜⬜ ✔️ ⬜ ⬜
 
@@ -209,9 +209,9 @@
     - [ ] (3:59:48) How To Clear Tracks & Logs On Linux
     - [ ] (4:17:43) SSH Brute Force Protection With Fail2Ban
 
-# 🦀 Rust 0/1 ⬜
+# 🦀 Rust 1/1 ⬜
 [![RustProgrammingCourseThumbnail](https://i3.ytimg.com/vi/MsocPEZBd-M/mqdefault.jpg)](https://youtu.be/MsocPEZBd-M)
-- [ ] [Rust Programming Course for Beginners - Tutorial | 1:25:37](https://youtu.be/MsocPEZBd-M)
+- [x] [Rust Programming Course for Beginners - Tutorial | 1:25:37](https://youtu.be/MsocPEZBd-M)
     - [x] (00:00) Course Introduction
     - [x] (01:16) Rust Overview
     - [x] (02:00) Initialising the CLI Calculator
