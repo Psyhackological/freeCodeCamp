@@ -1,6 +1,6 @@
 ![freeCodeCampLogo](https://opensource.freecodecamp.org/design-style-guide/img/fcc_primary_large.svg)
 
-# Current progress 1/11 | 2:40:06 / 30:54:31
+# Current progress 2/11 | 2:40:06 / 30:54:31
 
 # ⬜⬜⬜⬜ ✔️⬜⬜⬜ ✔️ ⬜ ⬜
 

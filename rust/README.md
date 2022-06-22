@@ -11,7 +11,5 @@ calculator 2 X 2
 
 ## Combiner usage
 ``` bash
-combiner image1.png image2.png output.png
-combiner image1.jpg image2.jpg output.jpg
+combiner fcc_glyph.png pro.png output.png
 ```
-
