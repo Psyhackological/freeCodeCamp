@@ -209,7 +209,7 @@
     - [ ] (3:59:48) How To Clear Tracks & Logs On Linux
     - [ ] (4:17:43) SSH Brute Force Protection With Fail2Ban
 
-# 🦀 Rust 1/1 ⬜
+# 🦀 Rust 1/1 ✔️
 [![RustProgrammingCourseThumbnail](https://i3.ytimg.com/vi/MsocPEZBd-M/mqdefault.jpg)](https://youtu.be/MsocPEZBd-M)
 - [x] [Rust Programming Course for Beginners - Tutorial | 1:25:37](https://youtu.be/MsocPEZBd-M)
     - [x] (00:00) Course Introduction
