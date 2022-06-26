@@ -20,3 +20,7 @@
 - [PDF Table Extractor](Table_Extractor/Extracting_Table_from_PDF_UN_HDI_report.ipynb)
   * [camelot-py](https://pypi.org/project/camelot-py/) - library that can help you extract tables from PDFs!
   * [seaborn](https://pypi.org/project/seaborn/) - library for making statistical graphics in Python. It is built on top of matplotlib and closely integrated with pandas data structures.
+
+- [Bulk Resume Parser]()
+  * [camelot-py](https://pypi.org/project/camelot-py/) - library that can help you extract tables from PDFs!
+  * [seaborn](https://pypi.org/project/seaborn/) - library for making statistical graphics in Python. It is built on top of matplotlib and closely integrated with pandas data structures.

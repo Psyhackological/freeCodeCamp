@@ -21,18 +21,18 @@
     - [x] (0:41:25) Installation and Introduction to BeautifulSoup
     - [x] (0:43:25) Building the basic script to download the video
     - [x] (0:49:37) Generalising the Script to get Arguments
-    - [ ] (0:53:49) Table Extractor from PDF - Tutorial 3  
-    - [ ] (0:54:44) Basics of PDF Format
-    - [ ] (0:57:05) Installing required Python Modules
-    - [ ] (1:02:16) Extracting Table from PDF
-    - [ ] (1:06:51) Quick Introduction to Jupyter Notebook
-    - [ ] (1:08:29) PDF Extraction on Jupyter Notebook
-    - [ ] (1:15:29) Pandas and Write Table as CSV Excel
-    - [ ] (1:21:02) Automated Bulk Resume Parser - Tutorial 4
-    - [ ] (1:22:15) Different Formats of Resumes and marking relevant Information
-    - [ ] (1:25:50) Project Architecture and Brief Overview of the required packages and installations
-    - [ ] (1:34:48) Basics of Regular Expression in Python
-    - [ ] (1:41:38) Basic Overview of Spacy Functions
+    - [x] (0:53:49) Table Extractor from PDF - Tutorial 3  
+    - [x] (0:54:44) Basics of PDF Format
+    - [x] (0:57:05) Installing required Python Modules
+    - [x] (1:02:16) Extracting Table from PDF
+    - [x] (1:06:51) Quick Introduction to Jupyter Notebook
+    - [x] (1:08:29) PDF Extraction on Jupyter Notebook
+    - [x] (1:15:29) Pandas and Write Table as CSV Excel
+    - [x] (1:21:02) Automated Bulk Resume Parser - Tutorial 4
+    - [x] (1:22:15) Different Formats of Resumes and marking relevant Information
+    - [x] (1:25:50) Project Architecture and Brief Overview of the required packages and installations
+    - [x] (1:34:48) Basics of Regular Expression in Python
+    - [x] (1:41:38) Basic Overview of Spacy Functions
     - [ ] (1:49:55) Extracting Relevant Information from the Resumes
     - [ ] (2:16:46) Completing the script to make it a one-click CLI
     - [ ] (2:28:09) Image Type Converter - Tutorial 5
