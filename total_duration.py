@@ -45,5 +45,4 @@ all_total = add_everything(total_durations)
 completed = calculate_total_time(*all_completed)
 total = calculate_total_time(*all_total)
 
-
 print(f"{completed} / {total}")

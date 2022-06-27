@@ -33,14 +33,14 @@
     - [x] (1:25:50) Project Architecture and Brief Overview of the required packages and installations
     - [x] (1:34:48) Basics of Regular Expression in Python
     - [x] (1:41:38) Basic Overview of Spacy Functions
-    - [ ] (1:49:55) Extracting Relevant Information from the Resumes
-    - [ ] (2:16:46) Completing the script to make it a one-click CLI
-    - [ ] (2:28:09) Image Type Converter - Tutorial 5
-    - [ ] (2:29:09) Different type of Image Formats
-    - [ ] (2:31:33) What is an Image type convertor
-    - [ ] (2:33:04) Introduction to Image Manipulation in Python
-    - [ ] (2:34:51) Building an Image type converting Script
-    - [ ] (2:40:03) Converting the script into a CLI Tool
+    - [x] (1:49:55) Extracting Relevant Information from the Resumes
+    - [x] (2:16:46) Completing the script to make it a one-click CLI
+    - [x] (2:28:09) Image Type Converter - Tutorial 5
+    - [x] (2:29:09) Different type of Image Formats
+    - [x] (2:31:33) What is an Image type convertor
+    - [x] (2:33:04) Introduction to Image Manipulation in Python
+    - [x] (2:34:51) Building an Image type converting Script
+    - [x] (2:40:03) Converting the script into a CLI Tool
     - [ ] (2:44:27) Building an Automated News Summarizer - Tutorial 6
     - [ ] (2:46:27) What is Text Summarization
     - [ ] (2:47:46) Installing Gensim and other Python Modules
