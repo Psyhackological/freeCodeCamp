@@ -21,6 +21,9 @@
   * [camelot-py](https://pypi.org/project/camelot-py/) - library that can help you extract tables from PDFs!
   * [seaborn](https://pypi.org/project/seaborn/) - library for making statistical graphics in Python. It is built on top of matplotlib and closely integrated with pandas data structures.
 
-- [Bulk Resume Parser]()
-  * [camelot-py](https://pypi.org/project/camelot-py/) - library that can help you extract tables from PDFs!
-  * [seaborn](https://pypi.org/project/seaborn/) - library for making statistical graphics in Python. It is built on top of matplotlib and closely integrated with pandas data structures.
+- [Bulk Resume Parser](Bulk_Resume_Parser/resume_parsing.ipynb)
+  * [spacy](https://pypi.org/project/spacy/) - library for advanced Natural Language Processing in Python and Cython.
+  * [pdfminer.six](https://pypi.org/project/pdfminer.six/) - is a community maintained fork of the original PDFMiner. It is a tool for extracting information from PDF documents.
+  * [pandas](https://pypi.org/project/pandas/) - powerful Python data analysis toolkit.
+  * [re](https://docs.python.org/3/library/re.html) - regular expression operations.
+  * [os](https://docs.python.org/3/library/os.html) - provides a portable way of using operating system dependent functionality.
