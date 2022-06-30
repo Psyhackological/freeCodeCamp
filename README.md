@@ -278,8 +278,7 @@
 - [ ] [Bootstrap CSS Framework - Full Course for Beginners | 2:46:22](https://youtu.be/-qfEOE4vtxE)
     - [ ] (0:00:00) Introduction
     - [ ] (0:01:58) What is Bootstrap?
-    - [ ] (0:02:50) Why use Bootstrap?
-    - [ ] (0:05:21) Download compiled CSS and JS
+    - [ ] (0:02:50) Why use Bootstrap? [ ] (0:05:21) Download compiled CSS and JS
     - [ ] (0:09:42) Install via CDN
     - [ ] (0:11:40) NPM installation
     - [ ] (0:15:00) Grid System
@@ -295,3 +294,9 @@
     - [ ] (2:09:14) Forms
     - [ ] (2:20:54) Other components
     - [ ] (2:30:30) Let's build a webpage!
+
+# 🐳 Docker 0/1 ⬜
+[![WhatisDockerThumbnail](https://www.freecodecamp.org/news/content/images/size/w2000/2022/04/how-to-use-docker-containers.png](https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/)
+- [ ] [What is Docker? Learn How to Use Containers – Explained with Examples | 00:08:00](https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/)
+    - [ ] (0:00:00) Idk yet
+
