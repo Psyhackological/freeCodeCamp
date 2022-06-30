@@ -296,7 +296,12 @@
     - [ ] (2:30:30) Let's build a webpage!
 
 # 🐳 Docker 0/1 ⬜
-[![WhatisDockerThumbnail](https://www.freecodecamp.org/news/content/images/size/w2000/2022/04/how-to-use-docker-containers.png](https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/)
-- [ ] [What is Docker? Learn How to Use Containers – Explained with Examples | 00:08:00](https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/)
-    - [ ] (0:00:00) Idk yet
-
+[![WhatIsDocker?Thumbnail](https://www.freecodecamp.org/news/content/images/size/w300/2022/04/how-to-use-docker-containers.png )](https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/)
+- [ ] [What is Docker? Learn How to Use Containers – Explained with Examples](https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/)
+    - [ ] Introduction
+    - [ ] Run Isolated Applications Using Docker
+    - [ ] Database Containers
+    - [ ] How to Use Database Containers For Development
+    - [ ] How to Use Database Containers for Integration Tests
+    - [ ] Dockerize Your Application
+    - [ ] Summary
