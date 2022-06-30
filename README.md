@@ -7,7 +7,7 @@
 # 🐍 Python 1/4 ✔️⬜⬜⬜
 
 [![PythonAutomationTutorialThumbnail](https://i3.ytimg.com/vi/s8XjEuplx_U/mqdefault.jpg)](https://youtu.be/s8XjEuplx_U)
-- [x] [Python Automation Tutorial – How to Automate Tasks for Beginners [Full Course] | 3:10:30](https://youtu.be/s8XjEuplx_U)
+- [x] [📽️ Python Automation Tutorial – How to Automate Tasks for Beginners [Full Course] | 3:10:30](https://youtu.be/s8XjEuplx_U)
     - [x] (0:00:00) Introduction
     - [x] (0:00:29) Hacker News Headlines Emailer - Tutorial 1
     - [x] (0:01:13) Introduction to Web Scraping
@@ -50,7 +50,7 @@
     - [x] (3:10:25) Thank you
 
 [![AutomateWithPythonThumbnail](https://i3.ytimg.com/vi/PXMJ6FS7llk/mqdefault.jpg)](https://youtu.be/PXMJ6FS7llk)
-- [ ] [Automate with Python – Full Course for Beginners | 2:42:55](https://youtu.be/PXMJ6FS7llk)
+- [ ] [📽️ Automate with Python – Full Course for Beginners | 2:42:55](https://youtu.be/PXMJ6FS7llk)
     - [ ] (0:00:00) Intro
     - [ ] (0:00:31) Project #1 Table Extraction - Extract Tables from Websites
     - [ ] (0:02:53) Table Extraction - Extract CSV Files from Websites
@@ -77,7 +77,7 @@
     - [ ] (2:33:22) Project #4 - Automate WhatsApp
 
 [![DjangoTutorialThumbnail](https://i3.ytimg.com/vi/0oSsLbh_Kv4/mqdefault.jpg)](https://youtu.be/0oSsLbh_Kv4)
-- [ ] [Django Tutorial - Create a Digital Resume with a Python Backend | 1:22:23](https://youtu.be/0oSsLbh_Kv4)
+- [ ] [📽️ Django Tutorial - Create a Digital Resume with a Python Backend | 1:22:23](https://youtu.be/0oSsLbh_Kv4)
     - [ ] (00:00) Intro
     - [ ] (01:28) Select template
     - [ ] (03:28) Start django project
@@ -85,7 +85,7 @@
     - [ ] (44:06) Frontend
 
 [![Django/TailwindTutorialThumbnail](https://i3.ytimg.com/vi/gbyYXgiSgdM/mqdefault.jpg)](https://youtu.be/gbyYXgiSgdM)
-- [ ] [Django / Tailwind Tutorial - Code a Netflix Clone | 3:46:22](https://youtu.be/gbyYXgiSgdM)
+- [ ] [📽️ Django / Tailwind Tutorial - Code a Netflix Clone | 3:46:22](https://youtu.be/gbyYXgiSgdM)
     - [ ] (0:00:00) Intro
     - [ ] (0:25:00) Pomodoro 1
     - [ ] (0:50:00) Pomodoro 2
@@ -100,14 +100,14 @@
 
 # 🐧 Linux 1/4 ✔️⬜⬜⬜
 [![VimTutorialForBeginnersThumbnail](https://i3.ytimg.com/vi/RZ4p-saaQkc/mqdefault.jpg)](https://youtu.be/RZ4p-saaQkc)
-- [x] [Vim Tutorial for Beginners | 1:14:29](https://youtu.be/RZ4p-saaQkc)
+- [x] [📽️ Vim Tutorial for Beginners | 1:14:29](https://youtu.be/RZ4p-saaQkc)
     - [x] (0:00:00) Intro
     - [x] (0:25:00) Pomodoro 1
     - [x] (0:50:00) Pomodoro 2
     - [x] (1:14:29) Pomodoro 3
 
 [![LinuxOperatingSystemThumbnail](https://i3.ytimg.com/vi/ROjZy1WbCIA/mqdefault.jpg)](https://youtu.be/ROjZy1WbCIA)
-- [ ] [Linux Operating System - Crash Course for Beginners | 2:47:56](https://youtu.be/ROjZy1WbCIA)
+- [ ] [📽️ Linux Operating System - Crash Course for Beginners | 2:47:56](https://youtu.be/ROjZy1WbCIA)
     - [ ] (0:00:00) Intro
     - [ ] (0:08:09) Install Linux
     - [ ] (0:29:43) Desktop Environment
@@ -123,7 +123,7 @@
     - [ ] (2:46:56) Outro
 
 [![The50MostPopularThumbnail](https://i3.ytimg.com/vi/ZtqBQ68cfJc/mqdefault.jpg)](https://youtu.be/ZtqBQ68cfJc)
-- [ ] [The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners | 5:00:17](https://youtu.be/ZtqBQ68cfJc)
+- [ ] [📽️ The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners | 5:00:17](https://youtu.be/ZtqBQ68cfJc)
     - [ ] (0:00:00) Introduction
     - [ ] (0:04:37) Why use the command line?
     - [ ] (0:06:56) The world of operating systems
@@ -186,7 +186,7 @@
     - [ ] (4:47:15) chmod
 
 [![LinuxEssentialsForEthicalHackersThumbnail](https://i3.ytimg.com/vi/1hvVcEhcbLM/mqdefault.jpg)](https://youtu.be/1hvVcEhcbLM)
-- [ ] [Linux Essentials for Ethical Hackers - Full InfoSec Course | 4:41:24](https://youtu.be/1hvVcEhcbLM)
+- [ ] [📽️ Linux Essentials for Ethical Hackers - Full InfoSec Course | 4:41:24](https://youtu.be/1hvVcEhcbLM)
     - [ ] (0:00:00) Introduction
     - [ ] (0:01:56) Useful keyboard Shortcuts
     - [ ] (0:08:52) File Management & Manipulation
@@ -211,7 +211,7 @@
 
 # 🦀 Rust 1/1 ✔️
 [![RustProgrammingCourseThumbnail](https://i3.ytimg.com/vi/MsocPEZBd-M/mqdefault.jpg)](https://youtu.be/MsocPEZBd-M)
-- [x] [Rust Programming Course for Beginners - Tutorial | 1:25:37](https://youtu.be/MsocPEZBd-M)
+- [x] [📽️ Rust Programming Course for Beginners - Tutorial | 1:25:37](https://youtu.be/MsocPEZBd-M)
     - [x] (00:00) Course Introduction
     - [x] (01:16) Rust Overview
     - [x] (02:00) Initialising the CLI Calculator
@@ -256,7 +256,7 @@
 
 # ⭕ Big O Notation 0/1 ⬜
 [![BigONotationThumbnail](https://i3.ytimg.com/vi/Mo4vesaut8g/mqdefault.jpg)](https://youtu.be/Mo4vesaut8g)
-- [ ] [Big O Notation - Full Course | 1:56:16](https://youtu.be/Mo4vesaut8g)
+- [ ] [📽️ Big O Notation - Full Course | 1:56:16](https://youtu.be/Mo4vesaut8g)
     - [ ] (0:00:00) Intro
     - [ ] (0:00:39) What Is Big O?
     - [ ] (0:07:08) O(n^2) Explanation
@@ -275,7 +275,7 @@
 
 # 🥾 Bootstrap 0/1 ⬜
 [![BootstrapCSSFrameworkThumbnail](https://i3.ytimg.com/vi/-qfEOE4vtxE/mqdefault.jpg)](https://youtu.be/-qfEOE4vtxE)
-- [ ] [Bootstrap CSS Framework - Full Course for Beginners | 2:46:22](https://youtu.be/-qfEOE4vtxE)
+- [ ] [📽️ Bootstrap CSS Framework - Full Course for Beginners | 2:46:22](https://youtu.be/-qfEOE4vtxE)
     - [ ] (0:00:00) Introduction
     - [ ] (0:01:58) What is Bootstrap?
     - [ ] (0:02:50) Why use Bootstrap? [ ] (0:05:21) Download compiled CSS and JS
@@ -297,7 +297,7 @@
 
 # 🐳 Docker 0/1 ⬜
 [![WhatIsDocker?Thumbnail](https://www.freecodecamp.org/news/content/images/size/w300/2022/04/how-to-use-docker-containers.png )](https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/)
-- [ ] [What is Docker? Learn How to Use Containers – Explained with Examples](https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/)
+- [ ] [📝 What is Docker? Learn How to Use Containers – Explained with Examples](https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/)
     - [ ] Introduction
     - [ ] Run Isolated Applications Using Docker
     - [ ] Database Containers
