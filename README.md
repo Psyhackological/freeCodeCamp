@@ -305,3 +305,14 @@
     - [ ] How to Use Database Containers for Integration Tests
     - [ ] Dockerize Your Application
     - [ ] Summary
+  
+
+# 📌 TODO
+- [ ] https://www.freecodecamp.org/news/mutable-vs-immutable-objects-python/
+- [ ] https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/
+- [ ] https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/
+- [ ] https://www.freecodecamp.org/news/remote-work-how-to-find-remote-working-jobs-from-home/
+- [ ] https://www.freecodecamp.org/news/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174/
+- [ ] https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners/
+- [ ] https://www.freecodecamp.org/news/build-six-quick-python-projects/
+- [ ] https://www.freecodecamp.org/news/why-learning-to-code-is-hard-and-how-to-make-it-easier/
