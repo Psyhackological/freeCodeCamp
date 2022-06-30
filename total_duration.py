@@ -32,7 +32,7 @@ def calculate_total_time(h, m, s):
     return f"{h}:{m}:{s}"
 
    
-completed_durations = ("1:14:29", "1:25:37")
+completed_durations = ("1:14:29", "1:25:37", "3:10:30")
 
 total_durations = (
     "3:10:30", "1:22:23", "3:46:22", "1:14:29", "2:47:56",

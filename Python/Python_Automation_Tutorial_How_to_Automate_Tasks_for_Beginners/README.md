@@ -27,3 +27,8 @@
   * [pandas](https://pypi.org/project/pandas/) - powerful Python data analysis toolkit.
   * [re](https://docs.python.org/3/library/re.html) - regular expression operations.
   * [os](https://docs.python.org/3/library/os.html) - provides a portable way of using operating system dependent functionality.
+
+- [News Summarizer](News_Summarizer/news_summarization_with_gensim.ipynb)
+  * [requests](https://pypi.org/project/requests/) - Python HTTP for Humans.
+  * [BeautifulSoup](https://pypi.org/project/beautifulsoup4/) - is a library that makes it easy to scrape information from web pages.
+  * [gensim](https://pypi.org/project/gensim/) - library for topic modelling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.

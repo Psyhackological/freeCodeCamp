@@ -1,13 +1,13 @@
 ![freeCodeCampLogo](https://opensource.freecodecamp.org/design-style-guide/img/fcc_primary_large.svg)
 
-# Current progress 2/11 | 2:40:06 / 30:54:31
+# Current progress 3/11 | 5:50:36 / 30:54:31
 
-# ⬜⬜⬜⬜ ✔️⬜⬜⬜ ✔️ ⬜ ⬜
+# ✔️⬜⬜⬜ ✔️⬜⬜⬜ ✔️ ⬜ ⬜
 
-# 🐍 Python 0/4 ⬜⬜⬜⬜
+# 🐍 Python 1/4 ✔️⬜⬜⬜
 
 [![PythonAutomationTutorialThumbnail](https://i3.ytimg.com/vi/s8XjEuplx_U/mqdefault.jpg)](https://youtu.be/s8XjEuplx_U)
-- [ ] [Python Automation Tutorial – How to Automate Tasks for Beginners [Full Course] | 3:10:30](https://youtu.be/s8XjEuplx_U)
+- [x] [Python Automation Tutorial – How to Automate Tasks for Beginners [Full Course] | 3:10:30](https://youtu.be/s8XjEuplx_U)
     - [x] (0:00:00) Introduction
     - [x] (0:00:29) Hacker News Headlines Emailer - Tutorial 1
     - [x] (0:01:13) Introduction to Web Scraping
@@ -41,13 +41,13 @@
     - [x] (2:33:04) Introduction to Image Manipulation in Python
     - [x] (2:34:51) Building an Image type converting Script
     - [x] (2:40:03) Converting the script into a CLI Tool
-    - [ ] (2:44:27) Building an Automated News Summarizer - Tutorial 6
-    - [ ] (2:46:27) What is Text Summarization
-    - [ ] (2:47:46) Installing Gensim and other Python Modules
-    - [ ] (2:52:43) Extracting the required News Source
-    - [ ] (2:59:38) Building the News Summarizer
-    - [ ] (3:07:14) Scheduling the News Summarizer
-    - [ ] (3:10:25) Thank you
+    - [x] (2:44:27) Building an Automated News Summarizer - Tutorial 6
+    - [x] (2:46:27) What is Text Summarization
+    - [x] (2:47:46) Installing Gensim and other Python Modules
+    - [x] (2:52:43) Extracting the required News Source
+    - [x] (2:59:38) Building the News Summarizer
+    - [x] (3:07:14) Scheduling the News Summarizer
+    - [x] (3:10:25) Thank you
 
 [![AutomateWithPythonThumbnail](https://i3.ytimg.com/vi/PXMJ6FS7llk/mqdefault.jpg)](https://youtu.be/PXMJ6FS7llk)
 - [ ] [Automate with Python – Full Course for Beginners | 2:42:55](https://youtu.be/PXMJ6FS7llk)
