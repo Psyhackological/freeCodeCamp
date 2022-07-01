@@ -4,7 +4,7 @@
 
 # 📝 Current article progress 1/3
 
-# 🐍 Python  2/6
+# 🐍 Python 2/6 | 3:10:30 / 11:02:10
 - [x] 📽️ Python Automation Tutorial – How to Automate Tasks for Beginners [Full Course] | 3:10:30
 - [ ] 📽️ Automate with Python – Full Course for Beginners | 2:42:55
 - [ ] 📽️ Django Tutorial - Create a Digital Resume with a Python Backend | 1:22:23
@@ -12,25 +12,25 @@
 - [x] 📝 Mutable vs Immutable Objects in Python – A Visual and Hands-On Guide
 - [ ] 📝 How to Set Up a Virtual Environment in Python – And Why It's Useful
 
-# 🐧 Linux 1/4
+# 🐧 Linux 1/4 | 1:14:29 / 13:44:06
 - [x] 📽️ Vim Tutorial for Beginners | 1:14:29 
 - [ ] 📽️ Linux Operating System - Crash Course for Beginners | 2:47:56 
 - [ ] 📽️ The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners | 5:00:17 
 - [ ] 📽️ Linux Essentials for Ethical Hackers - Full InfoSec Course | 4:41:24 
 
-# 🦀 Rust 1/1
+# 🦀 Rust 1/1 | 1:25:37 / 1:25:37
 - [x] 📽️ Rust Programming Course for Beginners - Tutorial | 1:25:37
 
-# ⭕ Big O Notation 0/1
+# ⭕ Big O Notation 0/1 | 0:00:00 / 1:56:16
 - [ ] 📽️ Big O Notation - Full Course | 1:56:16
 
-# 🥾 Bootstrap 0/1
+# 🥾 Bootstrap 0/1 | 0:00:00 / 2:46:22
 - [ ] 📽️ Bootstrap CSS Framework - Full Course for Beginners | 2:46:22
 
 # 🐳 Docker 0/1
 - [ ] 📝 What is Docker? Learn How to Use Containers – Explained with Examples 
 
-## 🐍 Python  2/6 ✔️⬜⬜⬜✔️⬜
+## 🐍 Python 2/6 ✔️⬜⬜⬜✔️⬜
 [![PythonAutomationTutorialThumbnail](https://i3.ytimg.com/vi/s8XjEuplx_U/mqdefault.jpg)](https://youtu.be/s8XjEuplx_U)
 - [x] [📽️ Python Automation Tutorial – How to Automate Tasks for Beginners [Full Course] | 3:10:30](https://youtu.be/s8XjEuplx_U)
     - [x] (0:00:00) Introduction
@@ -353,7 +353,6 @@
     - [ ] Dockerize Your Application
     - [ ] Summary
   
-
 ## 📌 TODO
 - [ ] https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/
 - [ ] https://www.freecodecamp.org/news/remote-work-how-to-find-remote-working-jobs-from-home/
