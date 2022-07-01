@@ -1,11 +1,36 @@
 ![freeCodeCampLogo](https://opensource.freecodecamp.org/design-style-guide/img/fcc_primary_large.svg)
 
-# Current progress 3/11 | 5:50:36 / 30:54:31
+# 📽️  Current video courses progress 3/11 | 5:50:36 / 30:54:31
 
-# ✔️⬜⬜⬜ ✔️⬜⬜⬜ ✔️ ⬜ ⬜
+# 📝 Current article progress 1/3
 
-# 🐍 Python 1/4 ✔️⬜⬜⬜
+# 🐍 Python  2/6
+- [x] 📽️ Python Automation Tutorial – How to Automate Tasks for Beginners [Full Course] | 3:10:30
+- [ ] 📽️ Automate with Python – Full Course for Beginners | 2:42:55
+- [ ] 📽️ Django Tutorial - Create a Digital Resume with a Python Backend | 1:22:23
+- [ ] 📽️ Django / Tailwind Tutorial - Code a Netflix Clone | 3:46:22
+- [x] 📝 Mutable vs Immutable Objects in Python – A Visual and Hands-On Guide
+- [ ] 📝 How to Set Up a Virtual Environment in Python – And Why It's Useful
 
+# 🐧 Linux 1/4
+- [x] 📽️ Vim Tutorial for Beginners | 1:14:29 
+- [ ] 📽️ Linux Operating System - Crash Course for Beginners | 2:47:56 
+- [ ] 📽️ The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners | 5:00:17 
+- [ ] 📽️ Linux Essentials for Ethical Hackers - Full InfoSec Course | 4:41:24 
+
+# 🦀 Rust 1/1
+- [x] 📽️ Rust Programming Course for Beginners - Tutorial | 1:25:37
+
+# ⭕ Big O Notation 0/1
+- [ ] 📽️ Big O Notation - Full Course | 1:56:16
+
+# 🥾 Bootstrap 0/1
+- [ ] 📽️ Bootstrap CSS Framework - Full Course for Beginners | 2:46:22
+
+# 🐳 Docker 0/1
+- [ ] 📝 What is Docker? Learn How to Use Containers – Explained with Examples 
+
+## 🐍 Python  2/6 ✔️⬜⬜⬜✔️⬜
 [![PythonAutomationTutorialThumbnail](https://i3.ytimg.com/vi/s8XjEuplx_U/mqdefault.jpg)](https://youtu.be/s8XjEuplx_U)
 - [x] [📽️ Python Automation Tutorial – How to Automate Tasks for Beginners [Full Course] | 3:10:30](https://youtu.be/s8XjEuplx_U)
     - [x] (0:00:00) Introduction
@@ -98,15 +123,15 @@
     - [ ] (3:46:22) Pomodoro 9
 
 [![MutableVsImmutableObjectsinPythonThumbnail](https://cdn-media-2.freecodecamp.org/w1280/5f9c95a1740569d1a4ca0dd3.jpg)](https://www.freecodecamp.org/news/mutable-vs-immutable-objects-python/)
-- [ ] [📝 Mutable vs Immutable Objects in Python – A Visual and Hands-On Guide](https://www.freecodecamp.org/news/mutable-vs-immutable-objects-python/)
-    - [ ] Introduction
-    - [ ] In Python, everything is an object
-    - [ ] Mutable and immutable objects in Python
-    - [ ] Immutable objects in Python
-    - [ ] Mutable objects in Python
-    - [ ] Implications for dictionary keys in Python
-    - [ ] Taking things a bit further
-    - [ ] Recap
+- [x] [📝 Mutable vs Immutable Objects in Python – A Visual and Hands-On Guide](https://www.freecodecamp.org/news/mutable-vs-immutable-objects-python/)
+    - [x] Introduction
+    - [x] In Python, everything is an object
+    - [x] Mutable and immutable objects in Python
+    - [x] Immutable objects in Python
+    - [x] Mutable objects in Python
+    - [x] Implications for dictionary keys in Python
+    - [x] Taking things a bit further
+    - [x] Recap
 
 [![HowToSetUpAVirtualEnvironmentThumbnail](https://www.freecodecamp.org/news/content/images/size/w300/2022/04/virtual-env-python.png)](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
 - [ ] [📝 How to Set Up a Virtual Environment in Python – And Why It's Useful](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
@@ -120,7 +145,7 @@
     - [ ] How to Deactivate a Virtual Environment
     - [ ] Conclusion
 
-# 🐧 Linux 1/4 ✔️⬜⬜⬜
+## 🐧 Linux 1/4 ✔️⬜⬜⬜
 [![VimTutorialForBeginnersThumbnail](https://i3.ytimg.com/vi/RZ4p-saaQkc/mqdefault.jpg)](https://youtu.be/RZ4p-saaQkc)
 - [x] [📽️ Vim Tutorial for Beginners | 1:14:29](https://youtu.be/RZ4p-saaQkc)
     - [x] (0:00:00) Intro
@@ -231,7 +256,7 @@
     - [ ] (3:59:48) How To Clear Tracks & Logs On Linux
     - [ ] (4:17:43) SSH Brute Force Protection With Fail2Ban
 
-# 🦀 Rust 1/1 ✔️
+## 🦀 Rust 1/1 ✔️
 [![RustProgrammingCourseThumbnail](https://i3.ytimg.com/vi/MsocPEZBd-M/mqdefault.jpg)](https://youtu.be/MsocPEZBd-M)
 - [x] [📽️ Rust Programming Course for Beginners - Tutorial | 1:25:37](https://youtu.be/MsocPEZBd-M)
     - [x] (00:00) Course Introduction
@@ -276,7 +301,7 @@
     - [x] (1:17:30) Using the Image Combiner
     - [x] (1:18:20) Better Error Handling
 
-# ⭕ Big O Notation 0/1 ⬜
+## ⭕ Big O Notation 0/1 ⬜
 [![BigONotationThumbnail](https://i3.ytimg.com/vi/Mo4vesaut8g/mqdefault.jpg)](https://youtu.be/Mo4vesaut8g)
 - [ ] [📽️ Big O Notation - Full Course | 1:56:16](https://youtu.be/Mo4vesaut8g)
     - [ ] (0:00:00) Intro
@@ -295,7 +320,7 @@
     - [ ] (1:47:19) Space Complexity & Common Mistakes
     - [ ] (1:55:53) End
 
-# 🥾 Bootstrap 0/1 ⬜
+## 🥾 Bootstrap 0/1 ⬜
 [![BootstrapCSSFrameworkThumbnail](https://i3.ytimg.com/vi/-qfEOE4vtxE/mqdefault.jpg)](https://youtu.be/-qfEOE4vtxE)
 - [ ] [📽️ Bootstrap CSS Framework - Full Course for Beginners | 2:46:22](https://youtu.be/-qfEOE4vtxE)
     - [ ] (0:00:00) Introduction
@@ -317,7 +342,7 @@
     - [ ] (2:20:54) Other components
     - [ ] (2:30:30) Let's build a webpage!
 
-# 🐳 Docker 0/1 ⬜
+## 🐳 Docker 0/1 ⬜
 [![WhatIsDocker?Thumbnail](https://www.freecodecamp.org/news/content/images/size/w300/2022/04/how-to-use-docker-containers.png)](https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/)
 - [ ] [📝 What is Docker? Learn How to Use Containers – Explained with Examples](https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/)
     - [ ] Introduction
@@ -329,7 +354,7 @@
     - [ ] Summary
   
 
-# 📌 TODO
+## 📌 TODO
 - [ ] https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/
 - [ ] https://www.freecodecamp.org/news/remote-work-how-to-find-remote-working-jobs-from-home/
 - [ ] https://www.freecodecamp.org/news/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174/
