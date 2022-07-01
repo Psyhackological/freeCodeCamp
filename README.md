@@ -108,6 +108,18 @@
     - [ ] Taking things a bit further
     - [ ] Recap
 
+[![HowToSetUpAVirtualEnvironmentThumbnail](https://www.freecodecamp.org/news/content/images/size/w300/2022/04/virtual-env-python.png)](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
+- [ ] [📝 How to Set Up a Virtual Environment in Python – And Why It's Useful](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
+    - [ ] Introduction
+    - [ ] What is a Virtual Environment?
+    - [ ] How to Install a Virtual Environment using Venv
+    - [ ] How to Activate the Virtual Environment
+    - [ ] Is the Virtual Environment Working?
+    - [ ] How to Install Libraries in a Virtual Environment
+    - [ ] Requirements File
+    - [ ] How to Deactivate a Virtual Environment
+    - [ ] Conclusion
+
 # 🐧 Linux 1/4 ✔️⬜⬜⬜
 [![VimTutorialForBeginnersThumbnail](https://i3.ytimg.com/vi/RZ4p-saaQkc/mqdefault.jpg)](https://youtu.be/RZ4p-saaQkc)
 - [x] [📽️ Vim Tutorial for Beginners | 1:14:29](https://youtu.be/RZ4p-saaQkc)
@@ -318,7 +330,6 @@
   
 
 # 📌 TODO
-- [ ] https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/
 - [ ] https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/
 - [ ] https://www.freecodecamp.org/news/remote-work-how-to-find-remote-working-jobs-from-home/
 - [ ] https://www.freecodecamp.org/news/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174/
