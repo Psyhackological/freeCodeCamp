@@ -97,6 +97,16 @@
     - [ ] (3:20:00) Pomodoro 8
     - [ ] (3:46:22) Pomodoro 9
 
+[![MutableVsImmutableObjectsinPythonThumbnail](https://cdn-media-2.freecodecamp.org/w1280/5f9c95a1740569d1a4ca0dd3.jpg)](https://www.freecodecamp.org/news/mutable-vs-immutable-objects-python/)
+- [ ] [📝 Mutable vs Immutable Objects in Python – A Visual and Hands-On Guide](https://www.freecodecamp.org/news/mutable-vs-immutable-objects-python/)
+    - [ ] Introduction
+    - [ ] In Python, everything is an object
+    - [ ] Mutable and immutable objects in Python
+    - [ ] Immutable objects in Python
+    - [ ] Mutable objects in Python
+    - [ ] Implications for dictionary keys in Python
+    - [ ] Taking things a bit further
+    - [ ] Recap
 
 # 🐧 Linux 1/4 ✔️⬜⬜⬜
 [![VimTutorialForBeginnersThumbnail](https://i3.ytimg.com/vi/RZ4p-saaQkc/mqdefault.jpg)](https://youtu.be/RZ4p-saaQkc)
@@ -296,7 +306,7 @@
     - [ ] (2:30:30) Let's build a webpage!
 
 # 🐳 Docker 0/1 ⬜
-[![WhatIsDocker?Thumbnail](https://www.freecodecamp.org/news/content/images/size/w300/2022/04/how-to-use-docker-containers.png )](https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/)
+[![WhatIsDocker?Thumbnail](https://www.freecodecamp.org/news/content/images/size/w300/2022/04/how-to-use-docker-containers.png)](https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/)
 - [ ] [📝 What is Docker? Learn How to Use Containers – Explained with Examples](https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/)
     - [ ] Introduction
     - [ ] Run Isolated Applications Using Docker
@@ -308,7 +318,6 @@
   
 
 # 📌 TODO
-- [ ] https://www.freecodecamp.org/news/mutable-vs-immutable-objects-python/
 - [ ] https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/
 - [ ] https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/
 - [ ] https://www.freecodecamp.org/news/remote-work-how-to-find-remote-working-jobs-from-home/
