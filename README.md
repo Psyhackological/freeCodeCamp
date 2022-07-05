@@ -2,15 +2,15 @@
 
 # 📽️  Current video courses progress 3/11 | 5:50:36 / 30:54:31
 
-# 📝 Current article progress 1/3
+# 📝 Current article progress 2/3
 
 # 🐍 Python 2/6 | 3:10:30 / 11:02:10
 - [x] 📽️ Python Automation Tutorial – How to Automate Tasks for Beginners [Full Course] | 3:10:30
 - [ ] 📽️ Automate with Python – Full Course for Beginners | 2:42:55
 - [ ] 📽️ Django Tutorial - Create a Digital Resume with a Python Backend | 1:22:23
 - [ ] 📽️ Django / Tailwind Tutorial - Code a Netflix Clone | 3:46:22
-- [x] 📝 Mutable vs Immutable Objects in Python – A Visual and Hands-On Guide
-- [ ] 📝 How to Set Up a Virtual Environment in Python – And Why It's Useful
+- [x] 📝 Mutable vs Immutable Objects in Python – A Visual and Hands-On Guide | 0:09:05
+- [x] 📝 How to Set Up a Virtual Environment in Python – And Why It's Useful | 0:05:18
 
 # 🐧 Linux 1/4 | 1:14:29 / 13:44:06
 - [x] 📽️ Vim Tutorial for Beginners | 1:14:29 
@@ -28,7 +28,7 @@
 - [ ] 📽️ Bootstrap CSS Framework - Full Course for Beginners | 2:46:22
 
 # 🐳 Docker 0/1
-- [ ] 📝 What is Docker? Learn How to Use Containers – Explained with Examples 
+- [ ] 📝 What is Docker? Learn How to Use Containers – Explained with Examples | 0:05:45
 
 ## 🐍 Python 2/6 ✔️⬜⬜⬜✔️⬜
 [![PythonAutomationTutorialThumbnail](https://i3.ytimg.com/vi/s8XjEuplx_U/mqdefault.jpg)](https://youtu.be/s8XjEuplx_U)
@@ -123,7 +123,7 @@
     - [ ] (3:46:22) Pomodoro 9
 
 [![MutableVsImmutableObjectsinPythonThumbnail](https://cdn-media-2.freecodecamp.org/w1280/5f9c95a1740569d1a4ca0dd3.jpg)](https://www.freecodecamp.org/news/mutable-vs-immutable-objects-python/)
-- [x] [📝 Mutable vs Immutable Objects in Python – A Visual and Hands-On Guide](https://www.freecodecamp.org/news/mutable-vs-immutable-objects-python/)
+- [x] [📝 Mutable vs Immutable Objects in Python – A Visual and Hands-On Guide | 0:09:05](https://www.freecodecamp.org/news/mutable-vs-immutable-objects-python/)
     - [x] Introduction
     - [x] In Python, everything is an object
     - [x] Mutable and immutable objects in Python
@@ -134,16 +134,16 @@
     - [x] Recap
 
 [![HowToSetUpAVirtualEnvironmentThumbnail](https://www.freecodecamp.org/news/content/images/size/w300/2022/04/virtual-env-python.png)](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
-- [ ] [📝 How to Set Up a Virtual Environment in Python – And Why It's Useful](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
-    - [ ] Introduction
-    - [ ] What is a Virtual Environment?
-    - [ ] How to Install a Virtual Environment using Venv
-    - [ ] How to Activate the Virtual Environment
-    - [ ] Is the Virtual Environment Working?
-    - [ ] How to Install Libraries in a Virtual Environment
-    - [ ] Requirements File
-    - [ ] How to Deactivate a Virtual Environment
-    - [ ] Conclusion
+- [x] [📝 How to Set Up a Virtual Environment in Python – And Why It's Useful | 0:05:18](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
+    - [x] Introduction
+    - [x] What is a Virtual Environment?
+    - [x] How to Install a Virtual Environment using Venv
+    - [x] How to Activate the Virtual Environment
+    - [x] Is the Virtual Environment Working?
+    - [x] How to Install Libraries in a Virtual Environment
+    - [x] Requirements File
+    - [x] How to Deactivate a Virtual Environment
+    - [x] Conclusion
 
 ## 🐧 Linux 1/4 ✔️⬜⬜⬜
 [![VimTutorialForBeginnersThumbnail](https://i3.ytimg.com/vi/RZ4p-saaQkc/mqdefault.jpg)](https://youtu.be/RZ4p-saaQkc)
@@ -344,7 +344,7 @@
 
 ## 🐳 Docker 0/1 ⬜
 [![WhatIsDocker?Thumbnail](https://www.freecodecamp.org/news/content/images/size/w300/2022/04/how-to-use-docker-containers.png)](https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/)
-- [ ] [📝 What is Docker? Learn How to Use Containers – Explained with Examples](https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/)
+- [ ] [📝 What is Docker? Learn How to Use Containers – Explained with Examples | 0:05:45](https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/)
     - [ ] Introduction
     - [ ] Run Isolated Applications Using Docker
     - [ ] Database Containers

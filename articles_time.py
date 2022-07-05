@@ -48,7 +48,7 @@ class Article:
         img_weight = 12 - num_images + 1  # Adding 1, because I think when I have 1 image it is multiplied by 12, not 11.
         if img_weight < 3:
             img_weight = 3
-        print(img_weight, num_images)
+
         total_seconds = img_weight * num_images
 
         return total_seconds
@@ -63,5 +63,5 @@ class Article:
         return "".join(self.string_tags)
 
 
-article1 = Article("https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/")
-print(article1.title, article1)
+article1 = Article("https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/")
+print(f"{article1.title} | {article1}")
