@@ -75,10 +75,33 @@ if __name__ == "__main__":
     sum_total_big_o_notation = sum_time(total_big_o_notation)
     sum_total_bootstrap = sum_time(total_bootstrap)
     sum_total = sum_time(total_durations)
-
+    print("===VIDEOS===")
     print(f"Python: {sum_completed_python} / {sum_total_python}")
     print(f"Linux: {sum_completed_linux} / {sum_total_linux}")
     print(f"Rust: {sum_completed_rust} / {sum_total_rust}")
     print(f"Big O Notation: {sum_completed_big_o_notation} / {sum_total_big_o_notation}")
     print(f"Bootstrap: {sum_completed_bootstrap} / {sum_total_bootstrap}")
     print(f"Total: {sum_durations} / {sum_total}")
+
+    print("===ARTICLES===")
+    completed_python_articles = ("0:09:05", "0:05:18")
+    completed_docker_articles = ("0:00:00",)
+
+    total_python_articles = ("0:09:05", "0:05:18")
+    total_docker_articles = ("0:05:45",)
+
+    completed_articles = (*completed_python_articles, *completed_docker_articles)
+    total_articles = (*total_python_articles, *total_docker_articles)
+
+    sum_completed_python_articles = sum_time(completed_python_articles)
+    sum_completed_docker_articles = sum_time(completed_docker_articles)
+
+    sum_total_python_articles = sum_time(total_python_articles)
+    sum_total_docker_articles = sum_time(total_docker_articles)
+
+    sum_completed_articles = sum_time(completed_articles)
+    sum_total_articles = sum_time(total_articles)
+
+    print(f"Python: {sum_completed_python_articles} / {sum_total_python_articles}")
+    print(f"Docker: {sum_completed_docker_articles} / {sum_total_docker_articles}")
+    print(f"Total: {sum_completed_articles} / {sum_total_articles}")

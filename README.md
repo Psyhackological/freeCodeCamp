@@ -1,14 +1,16 @@
 ![freeCodeCampLogo](https://opensource.freecodecamp.org/design-style-guide/img/fcc_primary_large.svg)
 
-# 📽️  Current video courses progress 3/11 | 5:50:36 / 30:54:31
+# 📽️ Current video courses progress 3/11 | 5:50:36 / 30:54:31
 
-# 📝 Current article progress 2/3
+# 📝 Current article progress 2/3 | 0:14:23 / 0:20:08
 
-# 🐍 Python 2/6 | 3:10:30 / 11:02:10
+# 🐍📽️ Python 2/4 | 3:10:30 / 11:02:10
 - [x] 📽️ Python Automation Tutorial – How to Automate Tasks for Beginners [Full Course] | 3:10:30
 - [ ] 📽️ Automate with Python – Full Course for Beginners | 2:42:55
 - [ ] 📽️ Django Tutorial - Create a Digital Resume with a Python Backend | 1:22:23
 - [ ] 📽️ Django / Tailwind Tutorial - Code a Netflix Clone | 3:46:22
+
+# 🐍📝 Python 2/2 | 0:14:23 / 0:14:23
 - [x] 📝 Mutable vs Immutable Objects in Python – A Visual and Hands-On Guide | 0:09:05
 - [x] 📝 How to Set Up a Virtual Environment in Python – And Why It's Useful | 0:05:18
 
@@ -27,10 +29,10 @@
 # 🥾 Bootstrap 0/1 | 0:00:00 / 2:46:22
 - [ ] 📽️ Bootstrap CSS Framework - Full Course for Beginners | 2:46:22
 
-# 🐳 Docker 0/1
+# 🐳📝 Docker 0/1 | 0:00:00 / 0:05:45
 - [ ] 📝 What is Docker? Learn How to Use Containers – Explained with Examples | 0:05:45
 
-## 🐍 Python 2/6 ✔️⬜⬜⬜✔️⬜
+## 🐍📽️ Python 2/4 ✔️⬜⬜⬜
 [![PythonAutomationTutorialThumbnail](https://i3.ytimg.com/vi/s8XjEuplx_U/mqdefault.jpg)](https://youtu.be/s8XjEuplx_U)
 - [x] [📽️ Python Automation Tutorial – How to Automate Tasks for Beginners [Full Course] | 3:10:30](https://youtu.be/s8XjEuplx_U)
     - [x] (0:00:00) Introduction
@@ -122,6 +124,7 @@
     - [ ] (3:20:00) Pomodoro 8
     - [ ] (3:46:22) Pomodoro 9
 
+## 🐍📝 Python 2/2 ✔️✔️
 [![MutableVsImmutableObjectsinPythonThumbnail](https://cdn-media-2.freecodecamp.org/w1280/5f9c95a1740569d1a4ca0dd3.jpg)](https://www.freecodecamp.org/news/mutable-vs-immutable-objects-python/)
 - [x] [📝 Mutable vs Immutable Objects in Python – A Visual and Hands-On Guide | 0:09:05](https://www.freecodecamp.org/news/mutable-vs-immutable-objects-python/)
     - [x] Introduction
@@ -342,7 +345,7 @@
     - [ ] (2:20:54) Other components
     - [ ] (2:30:30) Let's build a webpage!
 
-## 🐳 Docker 0/1 ⬜
+## 🐳📝 Docker 0/1 ⬜
 [![WhatIsDocker?Thumbnail](https://www.freecodecamp.org/news/content/images/size/w300/2022/04/how-to-use-docker-containers.png)](https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/)
 - [ ] [📝 What is Docker? Learn How to Use Containers – Explained with Examples | 0:05:45](https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/)
     - [ ] Introduction
