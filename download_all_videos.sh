@@ -18,3 +18,5 @@ yt-dlp -o "Big_O_Notation/%(title)s.%(ext)s" --embed-subs --embed-metadata --wri
 mkdir -p Bootstrap
 yt-dlp -o "Bootstrap/%(title)s.%(ext)s" --embed-subs --embed-metadata --write-description https://youtu.be/-qfEOE4vtxE
 
+mkdir -p Docker
+yt-dlp -o "Docker/%(title)s.%(ext)s" --embed-subs --embed-metadata --write-description https://youtu.be/fqMOX6JJhGo
