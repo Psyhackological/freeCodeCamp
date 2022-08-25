@@ -1,11 +1,13 @@
-""" import argparse
+"""
+import argparse
 parser = argparse.ArgumentParser(description="Adds videos' duration")
 parser.add_argument('times', metavar='TIMES', type=str, nargs='+', help='adds times and shows their sum')
 args = parser.parse_args()
 
 all_passed = add_everything(args.times)
 total_passed = calculate_total_time(*all_passed)
-print(f"args.times\n{total_passed}") """
+print(f"args.times\n{total_passed}")
+"""
 
 
 def sum_time(durations):
