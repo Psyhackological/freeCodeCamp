@@ -79,6 +79,7 @@ if __name__ == "__main__":
         *total_big_o_notation,
         *total_docker,
         *total_bootstrap,
+        *total_lua,
     )
 
     sum_completed_python = sum_time(completed_python)
@@ -98,7 +99,7 @@ if __name__ == "__main__":
     sum_total_docker = sum_time(total_docker)
     sum_total_lua = sum_time(total_lua)
     sum_total = sum_time(total_durations)
-    print("📽️ VIDEOS 📽️")
+    print(f"📽️ VIDEOS 📽️ - {len(total_durations)}")
     print(f"🐍 Python: {sum_completed_python} / {sum_total_python}")
     print(f"🐧 Linux: {sum_completed_linux} / {sum_total_linux}")
     print(f"🦀 Rust: {sum_completed_rust} / {sum_total_rust}")
@@ -110,7 +111,6 @@ if __name__ == "__main__":
     print(f"🔵 Lua: {sum_completed_lua} / {sum_total_lua}")
     print(f"🟰 Total: {sum_durations} / {sum_total}")
 
-    print("\n📝 ARTICLES 📝")
     completed_python_articles = ("0:09:05", "0:05:18")
     completed_docker_articles = ("0:00:00",)
 
@@ -129,6 +129,7 @@ if __name__ == "__main__":
     sum_completed_articles = sum_time(completed_articles)
     sum_total_articles = sum_time(total_articles)
 
+    print(f"\n📝 ARTICLES 📝 - {len(total_articles)}")
     print(f"🐍 Python: {sum_completed_python_articles} / {sum_total_python_articles}")
     print(f"🐳 Docker: {sum_completed_docker_articles} / {sum_total_docker_articles}")
     print(f"🟰 Total: {sum_completed_articles} / {sum_total_articles}")
