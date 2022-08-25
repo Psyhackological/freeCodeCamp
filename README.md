@@ -352,7 +352,7 @@
     - [ ] (2:30:30) Let's build a webpage!
 
 ## 🐳📽️ Docker 0/1 ⬜
-[![DockerTutorialforBeginnersThumbnail](https://www.freecodecamp.org/news/content/images/size/w300/2022/04/how-to-use-docker-containers.png)](https://youtu.be/fqMOX6JJhGo)
+[![DockerTutorialforBeginnersThumbnail](https://i3.ytimg.com/vi/fqMOX6JJhGo/mqdefault.jpg)](https://youtu.be/fqMOX6JJhGo)
 - [ ] [📽️ Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers | 2:10:19](https://youtu.be/fqMOX6JJhGo)
     - [ ] (0:00:00) Introduction
     - [ ] (0:02:35) Docker Overview
