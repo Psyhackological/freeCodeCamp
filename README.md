@@ -1,6 +1,6 @@
 ![freeCodeCampLogo](https://opensource.freecodecamp.org/design-style-guide/img/fcc_primary_large.svg)
 
-# 📽️ Current video courses progress 3/32 |5:50:36 / 44:16:41
+# 📽️ Current video courses progress 3/32 | 5:50:36 / 44:16:41
 
 # 📝 Current article progress 2/3 | 0:14:23 / 0:20:08
 
