@@ -388,7 +388,7 @@
     - [ ] Summary
 
 ## 🔵📽️ Lua 0/1 ⬜
-[![GameDevelopmentwithLÖVE2DandLuaThumbnail](https://www.freecodecamp.org/news/content/images/size/w300/2022/04/how-to-use-docker-containers.png)](https://youtu.be/I549C6SmUnk)
+[![GameDevelopmentwithLÖVE2DandLuaThumbnail](https://i3.ytimg.com/vi/I549C6SmUnk/mqdefault.jpg)](https://youtu.be/I549C6SmUnk)
 - [ ] [📽️ Game Development with LÖVE 2D and Lua – Full Course | 11:11:51](https://youtu.be/I549C6SmUnk)
     - [ ] (0:00:00) Intro to Lua
     - [ ] (0:02:28) Installing Lua
