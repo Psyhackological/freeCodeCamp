@@ -46,6 +46,7 @@ def calculate_total_time(h=0, m=0, s=0):
     # return f"{h}:{m}:{s}"
     return "%d:%02d:%02d" % (h, m, s)
 
+
 if __name__ == "__main__":
     completed_python = ("3:10:30",)
     completed_linux = ("1:14:29",)
@@ -53,8 +54,16 @@ if __name__ == "__main__":
     completed_big_o_notation = ("0:00:00",)
     completed_bootstrap = ("0:00:00",)
     completed_docker = ("0:00:00",)
+    completed_lua = ("0:00:00",)
     completed_durations = (
-        *completed_python, *completed_linux, *completed_rust, *completed_big_o_notation, *completed_docker, *completed_bootstrap)
+        *completed_python,
+        *completed_linux,
+        *completed_rust,
+        *completed_big_o_notation,
+        *completed_docker,
+        *completed_bootstrap,
+        *completed_lua,
+    )
 
     total_python = ("3:10:30", "2:42:55", "1:22:23", "3:46:22")
     total_linux = ("1:14:29", "2:47:56", "5:00:17", "4:41:24")
@@ -62,7 +71,15 @@ if __name__ == "__main__":
     total_big_o_notation = ("1:56:16",)
     total_bootstrap = ("2:46:22",)
     total_docker = ("2:10:19",)
-    total_durations = (*total_python, *total_linux, *total_rust, *total_big_o_notation, *total_docker, *total_bootstrap)
+    total_lua = ("11:11:51",)
+    total_durations = (
+        *total_python,
+        *total_linux,
+        *total_rust,
+        *total_big_o_notation,
+        *total_docker,
+        *total_bootstrap,
+    )
 
     sum_completed_python = sum_time(completed_python)
     sum_completed_linux = sum_time(completed_linux)
@@ -70,6 +87,7 @@ if __name__ == "__main__":
     sum_completed_big_o_notation = sum_time(completed_big_o_notation)
     sum_completed_bootstrap = sum_time(completed_bootstrap)
     sum_completed_docker = sum_time(completed_docker)
+    sum_completed_lua = sum_time(completed_lua)
     sum_durations = sum_time(completed_durations)
 
     sum_total_python = sum_time(total_python)
@@ -78,14 +96,18 @@ if __name__ == "__main__":
     sum_total_big_o_notation = sum_time(total_big_o_notation)
     sum_total_bootstrap = sum_time(total_bootstrap)
     sum_total_docker = sum_time(total_docker)
+    sum_total_lua = sum_time(total_lua)
     sum_total = sum_time(total_durations)
     print("📽️ VIDEOS 📽️")
     print(f"🐍 Python: {sum_completed_python} / {sum_total_python}")
     print(f"🐧 Linux: {sum_completed_linux} / {sum_total_linux}")
     print(f"🦀 Rust: {sum_completed_rust} / {sum_total_rust}")
-    print(f"⭕ Big O Notation: {sum_completed_big_o_notation} / {sum_total_big_o_notation}")
+    print(
+        f"⭕ Big O Notation: {sum_completed_big_o_notation} / {sum_total_big_o_notation}"
+    )
     print(f"🥾 Bootstrap: {sum_completed_bootstrap} / {sum_total_bootstrap}")
     print(f"🐳 Docker: {sum_completed_docker} / {sum_total_docker}")
+    print(f"🔵 Lua: {sum_completed_lua} / {sum_total_lua}")
     print(f"🟰 Total: {sum_durations} / {sum_total}")
 
     print("\n📝 ARTICLES 📝")

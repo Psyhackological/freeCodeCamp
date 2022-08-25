@@ -35,6 +35,9 @@
 # 🐳📝 Docker 0/1 | 0:00:00 / 0:05:45
 - [ ] 📝 What is Docker? Learn How to Use Containers – Explained with Examples | 0:05:45
 
+# 🔵📽️ Lua 0/1 | 0:00:00 / 11:11:51
+- [ ] 📽️ Game Development with LÖVE 2D and Lua – Full Course | 11:11:51
+
 ## 🐍📽️ Python 2/4 ✔️⬜⬜⬜
 [![PythonAutomationTutorialThumbnail](https://i3.ytimg.com/vi/s8XjEuplx_U/mqdefault.jpg)](https://youtu.be/s8XjEuplx_U)
 - [x] [📽️ Python Automation Tutorial – How to Automate Tasks for Beginners [Full Course] | 3:10:30](https://youtu.be/s8XjEuplx_U)
@@ -383,6 +386,52 @@
     - [ ] How to Use Database Containers for Integration Tests
     - [ ] Dockerize Your Application
     - [ ] Summary
+
+## 🔵📽️ Lua 0/1 ⬜
+[![GameDevelopmentwithLÖVE2DandLuaThumbnail](https://www.freecodecamp.org/news/content/images/size/w300/2022/04/how-to-use-docker-containers.png)](https://youtu.be/I549C6SmUnk)
+- [ ] [📽️ Game Development with LÖVE 2D and Lua – Full Course | 11:11:51](https://youtu.be/I549C6SmUnk)
+    - [ ] (0:00:00) Intro to Lua
+    - [ ] (0:02:28) Installing Lua
+    - [ ] (0:09:51) Running Lua (VSCode)
+    - [ ] (0:11:03) Printing and Comments
+    - [ ] (0:19:42) Variables & Data Types
+    - [ ] (0:29:51) Strings
+    - [ ] (0:36:59) Math
+    - [ ] (0:46:22) If Statements
+    - [ ] (0:58:49) Loops
+    - [ ] (1:03:37) User Input
+    - [ ] (1:05:34) Tables
+    - [ ] (1:23:27) Functions
+    - [ ] (1:31:44) Working with Files
+    - [ ] (1:39:12) Custom Modules
+    - [ ] (1:43:10) OOP
+    - [ ] (1:56:42) Setup and LUD basics
+    - [ ] (2:06:35) The Config File
+    - [ ] (2:25:13) Drawing & Moving Shapes
+    - [ ] (2:45:57) Keyboard Input
+    - [ ] (2:55:36) Working with Sprites
+    - [ ] (3:21:44) Game Setup
+    - [ ] (3:38:03) Creating the Enemy
+    - [ ] (4:09:02) The Menu Screen
+    - [ ] (4:51:11) Adding a Point System
+    - [ ] (5:11:44) Game Over Screen
+    - [ ] (5:31:24) Game Setup
+    - [ ] (5:40:02) The Player
+    - [ ] (6:10:32) The Thruster
+    - [ ] (6:31:59) The Game State
+    - [ ] (6:38:47) Game Text
+    - [ ] (7:02:40) Asteroids
+    - [ ] (7:41:32) Lasers
+    - [ ] (8:03:46) Laser Collision Detection
+    - [ ] (8:29:10) Player Collision Detection
+    - [ ] (8:41:17) Player Lives
+    - [ ] (8:57:54) The Menu
+    - [ ] (9:30:51) Installing & Running LuaRocks
+    - [ ] (9:42:18) The Score System
+    - [ ] (10:03:12) Game Over
+    - [ ] (10:11:56) Invincible PLayer & Infinite Levels
+    - [ ] (10:31:07) Game Reset & High Score
+    - [ ] (10:44:38) BGM & SFX
   
 ## 📌 TODO
 - [ ] https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/

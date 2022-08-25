@@ -20,3 +20,6 @@ yt-dlp -o "Bootstrap/%(title)s.%(ext)s" --embed-subs --embed-metadata --write-de
 
 mkdir -p Docker
 yt-dlp -o "Docker/%(title)s.%(ext)s" --embed-subs --embed-metadata --write-description https://youtu.be/fqMOX6JJhGo
+
+mkdir -p Lua
+yt-dlp -o "Lua/%(title)s.%(ext)s" --embed-subs --embed-metadata --write-description https://youtu.be/I549C6SmUnk

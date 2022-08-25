@@ -28,7 +28,7 @@ class Article:
     def find_all_text(self):
         all_h1 = self.soup.find_all("h1")
         all_h2 = self.soup.find_all("h2")
-        all_p = self.soup.find_all('p')
+        all_p = self.soup.find_all("p")
         all_pre = self.soup.find_all("pre")
 
         return all_h1, all_h2, all_p, all_pre
@@ -45,7 +45,9 @@ class Article:
 
         all_img_filtered = self.soup.find_all("img")[2:-1]
         num_images = len(all_img_filtered)
-        img_weight = 12 - num_images + 1  # Adding 1, because I think when I have 1 image it is multiplied by 12, not 11.
+        img_weight = (
+            12 - num_images + 1
+        )  # Adding 1, because I think when I have 1 image it is multiplied by 12, not 11.
         if img_weight < 3:
             img_weight = 3
 
@@ -55,7 +57,9 @@ class Article:
 
     def convert_them_into_string(self):
         for object_tag in self.tupple_tags:
-            tuple_of_tup = tuple([tag.text.strip() for tag in object_tag if len(tag) != 0])
+            tuple_of_tup = tuple(
+                [tag.text.strip() for tag in object_tag if len(tag) != 0]
+            )
             string_tag = "".join(tuple_of_tup)
             self.string_tags.append(string_tag)
 
@@ -63,5 +67,7 @@ class Article:
         return "".join(self.string_tags)
 
 
-article1 = Article("https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/")
+article1 = Article(
+    "https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/"
+)
 print(f"{article1.title} | {article1}")
