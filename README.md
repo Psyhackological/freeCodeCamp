@@ -20,13 +20,13 @@
 - [ ] 📽️ The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners | 5:00:17 
 - [ ] 📽️ Linux Essentials for Ethical Hackers - Full InfoSec Course | 4:41:24 
 
-# 🦀 Rust 1/1 | 1:25:37 / 1:25:37
+# 🦀📽️ Rust 1/1 | 1:25:37 / 1:25:37
 - [x] 📽️ Rust Programming Course for Beginners - Tutorial | 1:25:37
 
-# ⭕ Big O Notation 0/1 | 0:00:00 / 1:56:16
+# ⭕📽️ Big O Notation 0/1 | 0:00:00 / 1:56:16
 - [ ] 📽️ Big O Notation - Full Course | 1:56:16
 
-# 🥾 Bootstrap 0/1 | 0:00:00 / 2:46:22
+# 🥾📽️ Bootstrap 0/1 | 0:00:00 / 2:46:22
 - [ ] 📽️ Bootstrap CSS Framework - Full Course for Beginners | 2:46:22
 
 # 🐳📽️ Docker 0/1 | 0:00:00 / 2:10:19
