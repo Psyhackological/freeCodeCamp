@@ -131,7 +131,7 @@
     - [ ] (3:46:22) Pomodoro 9
 
 ## 🐍📝 Python 2/2 ✔️✔️
-[![MutableVsImmutableObjectsinPythonThumbnail](https://cdn-media-2.freecodecamp.org/w1280/5f9c95a1740569d1a4ca0dd3.jpg)](https://www.freecodecamp.org/news/mutable-vs-immutable-objects-python/)
+<a href="https://www.freecodecamp.org/news/mutable-vs-immutable-objects-python/"><img src="https://cdn-media-2.freecodecamp.org/w1280/5f9c95a1740569d1a4ca0dd3.jpg" alt="MutableVsImmutableObjectsinPythonThumbnail" width="300"></a>
 - [x] [📝 Mutable vs Immutable Objects in Python – A Visual and Hands-On Guide | 0:09:05](https://www.freecodecamp.org/news/mutable-vs-immutable-objects-python/)
     - [x] Introduction
     - [x] In Python, everything is an object
