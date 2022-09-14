@@ -180,23 +180,23 @@
 
 [![The50MostPopularThumbnail](https://i3.ytimg.com/vi/ZtqBQ68cfJc/mqdefault.jpg)](https://youtu.be/ZtqBQ68cfJc)
 - [ ] [📽️ The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners | 5:00:17](https://youtu.be/ZtqBQ68cfJc)
-    - [ ] (0:00:00) Introduction
-    - [ ] (0:04:37) Why use the command line?
-    - [ ] (0:06:56) The world of operating systems
-    - [ ] (0:10:56) What is Linux?
-    - [ ] (0:16:58) Shells and Bash
-    - [ ] (0:19:28) Setup For Linux Users
-    - [ ] (0:20:28) Setup For Mac Users
-    - [ ] (0:21:05) Setup For Windows (WSL)
-    - [ ] (0:29:43) Using The Terminal
-    - [ ] (0:31:12) whoami
-    - [ ] (0:32:34) man
-    - [ ] (0:33:40) clear
-    - [ ] (0:36:42) intro to options
-    - [ ] (0:39:05) pwd
-    - [ ] (0:41:07) ls
-    - [ ] (0:49:21) cd
-    - [ ] (1:00:40) mkdir
+    - [x] (0:00:00) Introduction
+    - [x] (0:04:37) Why use the command line?
+    - [x] (0:06:56) The world of operating systems
+    - [x] (0:10:56) What is Linux?
+    - [x] (0:16:58) Shells and Bash
+    - [x] (0:19:28) Setup For Linux Users
+    - [x] (0:20:28) Setup For Mac Users
+    - [x] (0:21:05) Setup For Windows (WSL)
+    - [x] (0:29:43) Using The Terminal
+    - [x] (0:31:12) whoami
+    - [x] (0:32:34) man
+    - [x] (0:33:40) clear
+    - [x] (0:36:42) intro to options
+    - [x] (0:39:05) pwd
+    - [x] (0:41:07) ls
+    - [x] (0:49:21) cd
+    - [x] (1:00:40) mkdir
     - [ ] (1:06:33) touch
     - [ ] (1:12:03) rmdir
     - [ ] (1:13:05) rm
