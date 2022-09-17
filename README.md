@@ -35,10 +35,10 @@
 # 🐳📝 Docker 0/1 | 0:00:00 / 0:05:45
 - [ ] 📝 What is Docker? Learn How to Use Containers – Explained with Examples | 0:05:45
 
-# 🔵📽️ Lua 0/1 | 0:00:00 / 11:11:51
+# 🌙📽️ Lua 0/1 | 0:00:00 / 11:11:51
 - [ ] 📽️ Game Development with LÖVE 2D and Lua – Full Course | 11:11:51
 
-## 🐍📽️ Python 2/4 ✔️⬜⬜⬜
+## 🐍📽️ Python 2/4 ✔️✔️⬜⬜
 [![PythonAutomationTutorialThumbnail](https://i3.ytimg.com/vi/s8XjEuplx_U/mqdefault.jpg)](https://youtu.be/s8XjEuplx_U)
 - [x] [📽️ Python Automation Tutorial – How to Automate Tasks for Beginners [Full Course] | 3:10:30](https://youtu.be/s8XjEuplx_U)
     - [x] (0:00:00) Introduction
