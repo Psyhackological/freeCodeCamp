@@ -23,3 +23,6 @@ yt-dlp -o "Docker/%(title)s.%(ext)s" --embed-subs --embed-metadata --write-descr
 
 mkdir -p Lua
 yt-dlp -o "Lua/%(title)s.%(ext)s" --embed-subs --embed-metadata --write-description https://youtu.be/I549C6SmUnk
+
+mkdir -p Database
+yt-dlp -o "Database/%(title)s.%(ext)s" --embed-subs --embed-metadata --write-description https://youtu.be/FzlpwoeSrE0
