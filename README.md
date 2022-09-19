@@ -457,7 +457,9 @@
 ## 📌 TODO
 - [ ] https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/
 - [ ] https://www.freecodecamp.org/news/remote-work-how-to-find-remote-working-jobs-from-home/
-- [ ] https://www.freecodecamp.org/news/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174/
+- [ ] https://www.freecodecamp.org/news/big-o-notation-explained-simply/
 - [ ] https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners/
 - [ ] https://www.freecodecamp.org/news/build-six-quick-python-projects/
 - [ ] https://www.freecodecamp.org/news/why-learning-to-code-is-hard-and-how-to-make-it-easier/
+- [ ] https://www.freecodecamp.org/news/the-linux-commands-handbook/
+
