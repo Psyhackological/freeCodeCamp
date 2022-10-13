@@ -1,6 +1,6 @@
 ![freeCodeCampLogo](https://opensource.freecodecamp.org/design-style-guide/img/fcc_primary_large.svg)
 
-# 📽️ Current video courses progress 3/14| 5:50:36 / 45:42:23
+# 📽️ Current video courses progress 3/14| 5:50:36 / 51:03:39
 
 # 📝 Current article progress 2/3 | 0:14:23 / 0:20:08
 
@@ -29,7 +29,7 @@
 # 🥾📽️ Bootstrap 0/1 | 0:00:00 / 2:46:22
 - [ ] 📽️ Bootstrap CSS Framework - Full Course for Beginners | 2:46:22
 
-# 🐳📽️ Docker 0/1 | 0:00:00 / 2:10:19
+# 🐳📽️ Docker 0/2 | 0:00:00 / 8:06:56
 - [ ] 📽️ Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers | 2:10:19
 
 # 🐳📝 Docker 0/1 | 0:00:00 / 0:05:45
@@ -354,7 +354,7 @@
     - [ ] (2:20:54) Other components
     - [ ] (2:30:30) Let's build a webpage!
 
-## 🐳📽️ Docker 0/1 ⬜
+## 🐳📽️ Docker 0/2 ⬜⬜
 [![DockerTutorialforBeginnersThumbnail](https://i3.ytimg.com/vi/fqMOX6JJhGo/mqdefault.jpg)](https://youtu.be/fqMOX6JJhGo)
 - [ ] [📽️ Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers | 2:10:19](https://youtu.be/fqMOX6JJhGo)
     - [ ] (0:00:00) Introduction
@@ -378,6 +378,126 @@
     - [ ] (1:59:25) Docker Swarm
     - [ ] (2:03:21) Kubernetes
     - [ ] (2:09:30) Conclusion
+
+[![DockerContainersandKubernetesThumbnail](https://i3.ytimg.com/vi/kTp5xUtcalw/mqdefault.jpg)](https://youtu.be/fqMOX6JJhGo)
+- [ ] [📽️ Docker Containers and Kubernetes Fundamentals – Full Hands-On Course | 5:56:37](https://youtu.be/kTp5xUtcalw)
+    - [ ] 0:00:00 Introduction
+        - Course Introduction
+        - Course Setup
+    - [ ] 0:05:02 Introduction to MicroServices
+        - Microservices Concepts
+        - Microservices Anti Patterns
+        - Microservices Advantages and Drawbacks
+    - [ ] 0:13:56 Welcome to Cloud Native!
+        - What are Cloud Native and the Cloud Native Foundation
+        - Cloud Native Concepts
+        - Cloud Native Hands-On
+    - [ ] 0:23:01 Introduction to Containers
+        - Container Concepts
+        - What is Docker?
+        - Docker Hands-On
+        - Basic Commands
+        - Basic Commands Hands-On
+        - Running Containers
+        - Running Containers Hands-On
+        - Building Containers
+        - Building Containers Hands-On
+    - [ ] 0:54:41 Visual Studio Code
+        - The Docker Extension
+        - The Docker Extension Hands-On
+    - [ ] 1:07:03 Persisting Data
+        - Containers are Ephemerous and Stateless
+        - Docker Volumes Concepts
+        - Using Docker Volumes Hands-On
+    - [ ] 1:17:03 Docker Compose
+        - Understanding the YAML File Structure
+        - Docker Compose Concepts
+        - Using Docker Compose
+        - Using Docker Compose Hands-On
+        - Docker Compose Sample App Hands-on
+        - Docker Compose Features
+    - [ ] 1:47:18 Container Registries
+        - Container Registries Concepts
+        - Push/Pull Images from Docker Hub
+        - Push/Pull Images from Docker Hub Hands-On
+    - [ ] 1:56:58 Kubernetes Concepts
+        - Kubernetes Concepts
+        - How to Run Kubernetes Locally
+        - How to Run Kubernetes Locally Hands-On
+        - Kubernetes API
+        - Using Kubectl Hands-On
+        - The Declarative Way vs the Imperative Way
+        - The Declarative Way vs the Imperative Way Hands-On
+    - [ ] 2:20:38 Namespaces
+        - Namespaces Concepts
+        - Namespaces Hands-On
+    - [ ] 2:28:47 Nodes
+        - Master Node Concepts
+        - Worker Nodes Concepts
+        - Nodes Hands-On
+    - [ ] 2:38:36 Pods
+        - Pod Concepts
+        - The Pod Lifecycle
+        - Defining and Running Pods
+        - Pod Hands-On
+        - Init Containers
+        - Init Containers Hands-On
+    - [ ] 3:01:00 Selectors
+        - Selector Concepts
+        - Selector Hands-On
+    - [ ] 3:07:51 Multi Container Pods
+        - Common Patterns for Running More then One Container in a Pod
+        - Multi Container Pods Networking Concepts
+        - Multi Containers Pods Hands-On
+    - [ ] 3:19:45 Workloads
+        - Introduction to Workloads
+        - ReplicaSet Concepts
+        - ReplicaSet Hands-On
+        - Deployment Concepts
+        - Deployment Hands-On
+        - DaemonSet Concepts
+        - DaemonSet Hands-On
+        - StatefulSet Concepts
+        - StatefulSet Hands-On
+        - Job Concepts
+        - Job Hands-On
+        - CronJob Concepts
+        - CronJob Hands-On
+    - [ ] 4:05:15 Updates
+        - Rolling Updates Concepts
+        - Rolling Updates Hands-On
+        - Blue-Green Deployments
+        - Blue-Green Deployments Hands-On
+    - [ ] 4:21:13 Services
+        - What are services?
+        - ClusterIP Concepts
+        - ClusterIP Hands-On
+        - NodePort Concepts
+        - NodePort Hands-On
+        - Load Balancer Concepts
+        - Load Balancer on Docker Desktop Hands-On
+    - [ ] 4:44:03 Storage & Persistence
+        - Storage & Persistence Concepts
+        - The Static Way
+        - The Static Way Hands-On
+        - The Dynamic Way
+    - [ ] 5:03:48 Application Settings
+        - ConfigMaps Concepts
+        - ConfigMaps Hands-On
+        - Secrets Concepts
+        - Secrets Hands-On
+    - [ ] 5:22:24 Observalibilty
+        - Startup, Readiness and Liveness Probes Concepts
+        - Probes Hands-On
+    - [ ] 5:30:46 Dashboards 
+        - Dashboards Options
+        - Lens Hands-On
+        - K9s Hands-On
+    - [ ] 5:47:36 Scaling
+        - Auto Scaling Pods using the Horizontal Pod Autoscaler
+        - Auto Scaling Pods Hands-On
+    - [ ] 5:55:22 Conclusion
+        - Course Conclusion
 
 ## 🐳📝 Docker 0/1 ⬜
 [![WhatIsDocker?Thumbnail](https://www.freecodecamp.org/news/content/images/size/w300/2022/04/how-to-use-docker-containers.png)](https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/)

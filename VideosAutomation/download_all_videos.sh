@@ -19,10 +19,10 @@ mkdir -p Bootstrap
 yt-dlp -o "Bootstrap/%(title)s.%(ext)s" --embed-subs --embed-metadata --write-description https://youtu.be/-qfEOE4vtxE
 
 mkdir -p Docker
-yt-dlp -o "Docker/%(title)s.%(ext)s" --embed-subs --embed-metadata --write-description https://youtu.be/fqMOX6JJhGo
+yt-dlp -o "Docker/%(title)s.%(ext)s" --embed-subs --embed-metadata --write-description https://youtu.be/fqMOX6JJhGo https://youtu.be/kTp5xUtcalw
 
 mkdir -p Lua
 yt-dlp -o "Lua/%(title)s.%(ext)s" --embed-subs --embed-metadata --write-description https://youtu.be/I549C6SmUnk
 
 mkdir -p Database
-yt-dlp -o "Database/%(title)s.%(ext)s" --embed-subs --embed-metadata --write-description https://youtu.be/FzlpwoeSrE0
+yt-dlp -o "Database/%(title)s.%(ext)s" --embed-subs --embed-metadata --write-description https://youtu.be/FzlpwoeSrE0 
