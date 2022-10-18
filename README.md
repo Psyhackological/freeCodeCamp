@@ -1,6 +1,6 @@
 ![freeCodeCampLogo](https://opensource.freecodecamp.org/design-style-guide/img/fcc_primary_large.svg)
 
-# 📽️ Current video courses progress 3/14| 5:50:36 / 51:03:39
+# 📽️ Current video courses progress 4/14| 10:50:53 / 51:03:39
 
 # 📝 Current article progress 2/3 | 0:14:23 / 0:20:08
 
@@ -14,10 +14,10 @@
 - [x] 📝 Mutable vs Immutable Objects in Python – A Visual and Hands-On Guide | 0:09:05
 - [x] 📝 How to Set Up a Virtual Environment in Python – And Why It's Useful | 0:05:18
 
-# 🐧 Linux 1/4 | 1:14:29 / 13:44:06
+# 🐧 Linux 2/4 | 6:14:46 / 13:44:06
 - [x] 📽️ Vim Tutorial for Beginners | 1:14:29 
 - [ ] 📽️ Linux Operating System - Crash Course for Beginners | 2:47:56 
-- [ ] 📽️ The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners | 5:00:17 
+- [x] 📽️ The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners | 5:00:17 
 - [ ] 📽️ Linux Essentials for Ethical Hackers - Full InfoSec Course | 4:41:24 
 
 # 🦀📽️ Rust 1/1 | 1:25:37 / 1:25:37
@@ -157,7 +157,7 @@
     - [x] How to Deactivate a Virtual Environment
     - [x] Conclusion
 
-## 🐧 Linux 1/4 ✔️⬜⬜⬜
+## 🐧 Linux 1/4 ✔️✔️⬜⬜
 [![VimTutorialForBeginnersThumbnail](https://i3.ytimg.com/vi/RZ4p-saaQkc/mqdefault.jpg)](https://youtu.be/RZ4p-saaQkc)
 - [x] [📽️ Vim Tutorial for Beginners | 1:14:29](https://youtu.be/RZ4p-saaQkc)
     - [x] (0:00:00) Intro
@@ -182,7 +182,7 @@
     - [ ] (2:46:56) Outro
 
 [![The50MostPopularThumbnail](https://i3.ytimg.com/vi/ZtqBQ68cfJc/mqdefault.jpg)](https://youtu.be/ZtqBQ68cfJc)
-- [ ] [📽️ The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners | 5:00:17](https://youtu.be/ZtqBQ68cfJc)
+- [x] [📽️ The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners | 5:00:17](https://youtu.be/ZtqBQ68cfJc)
     - [x] (0:00:00) Introduction
     - [x] (0:04:37) Why use the command line?
     - [x] (0:06:56) The world of operating systems
@@ -236,13 +236,13 @@
     - [x] (3:31:17) alias
     - [x] (3:42:48) xargs
     - [x] (3:50:57) ln
-    - [ ] (4:01:49) who
-    - [ ] (4:03:47) su
-    - [ ] (4:08:32) sudo
-    - [ ] (4:18:36) passwd
-    - [ ] (4:21:54) chown
-    - [ ] (4:31:08) Understanding permissions
-    - [ ] (4:47:15) chmod
+    - [x] (4:01:49) who
+    - [x] (4:03:47) su
+    - [x] (4:08:32) sudo
+    - [x] (4:18:36) passwd
+    - [x] (4:21:54) chown
+    - [x] (4:31:08) Understanding permissions
+    - [x] (4:47:15) chmod
 
 [![LinuxEssentialsForEthicalHackersThumbnail](https://i3.ytimg.com/vi/1hvVcEhcbLM/mqdefault.jpg)](https://youtu.be/1hvVcEhcbLM)
 - [ ] [📽️ Linux Essentials for Ethical Hackers - Full InfoSec Course | 4:41:24](https://youtu.be/1hvVcEhcbLM)
