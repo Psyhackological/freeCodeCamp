@@ -1,6 +1,6 @@
 ![freeCodeCampLogo](https://opensource.freecodecamp.org/design-style-guide/img/fcc_primary_large.svg)
 
-# 📽️ Current video courses progress 4/14| 10:50:53 / 51:03:39
+# 📽️ Current video courses progress 5/14| 12:16:35 / 51:03:39
 
 # 📝 Current article progress 2/3 | 0:14:23 / 0:20:08
 
@@ -38,8 +38,8 @@
 # 🌙📽️ Lua 0/1 | 0:00:00 / 11:11:51
 - [ ] 📽️ Game Development with LÖVE 2D and Lua – Full Course | 11:11:51
 
-# 🗃️️📽️ Database 0/1 | 0:00:00 / 1:25:42
-- [ ] 📽️ Game Development with LÖVE 2D and Lua – Full Course | 1:25:42
+# 🗃️️📽️ Database 1/1 | 1:25:42 / 1:25:42
+- [x] 📽️ NoSQL vs SQL – Which Type of Database Should You Use? | 1:25:42
 
 ## 🐍📽️ Python 2/4 ✔️✔️⬜⬜
 [![PythonAutomationTutorialThumbnail](https://i3.ytimg.com/vi/s8XjEuplx_U/mqdefault.jpg)](https://youtu.be/s8XjEuplx_U)
@@ -488,7 +488,7 @@
         - Secrets Hands-On
     - [ ] 5:22:24 Observalibilty
         - Startup, Readiness and Liveness Probes Concepts
-        - Probes Hands-On
+        - Probes Hands-Onf
     - [ ] 5:30:46 Dashboards 
         - Dashboards Options
         - Lens Hands-On
@@ -556,23 +556,23 @@
     - [ ] (10:31:07) Game Reset & High Score
     - [ ] (10:44:38) BGM & SFX
 
-## 🗃📽️ Database 0/1 ⬜
+## 🗃📽️ Database 1/1 ✔️
 [![NoSQLvsSQThumbnail](https://i3.ytimg.com/vi/FzlpwoeSrE0/mqdefault.jpg)](https://youtu.be/FzlpwoeSrE0)
-- [ ] [📽️ NoSQL vs SQL – Which Type of Database Should You Use? | 1:25:42](https://youtu.be/FzlpwoeSrE0)
-    - [ ] (0:00:00) 00: Introduction
-    - [ ] (0:02:17) 01: What actually is a database
-    - [ ] (0:05:53) 02: What is a database management system
-    - [ ] (0:06:27) 03: Demo: Creating a database
-    - [ ] (0:09:21) 04: Common Database Models
-    - [ ] (0:09:46) 05: Relational databases
-    - [ ] (0:11:33) 06: SQL
-    - [ ] (0:16:33) 07: Non-relational databases
-    - [ ] (0:19:21) 08: Pros and Cons: Comparing RDBMS and NoSQL
-    - [ ] (0:31:25) 09: Wide Column Database
-    - [ ] (0:47:38) 10: Document Database
-    - [ ] (1:03:51) 11: Key-Value Database
-    - [ ] (1:21:57) 12: Multi-Model Databases
-    - [ ] (1:23:12) 13: Use cases: When to use RDBMS or NoSQL
+- [x] [📽️ NoSQL vs SQL – Which Type of Database Should You Use? | 1:25:42](https://youtu.be/FzlpwoeSrE0)
+    - [x] (0:00:00) 00: Introduction
+    - [x] (0:02:17) 01: What actually is a database
+    - [x] (0:05:53) 02: What is a database management system
+    - [x] (0:06:27) 03: Demo: Creating a database
+    - [x] (0:09:21) 04: Common Database Models
+    - [x] (0:09:46) 05: Relational databases
+    - [x] (0:11:33) 06: SQL
+    - [x] (0:16:33) 07: Non-relational databases
+    - [x] (0:19:21) 08: Pros and Cons: Comparing RDBMS and NoSQL
+    - [x] (0:31:25) 09: Wide Column Database
+    - [x] (0:47:38) 10: Document Database
+    - [x] (1:03:51) 11: Key-Value Database
+    - [x] (1:21:57) 12: Multi-Model Databases
+    - [x] (1:23:12) 13: Use cases: When to use RDBMS or NoSQL
   
 ## 📌 TODO
 - [ ] https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/
