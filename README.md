@@ -1,6 +1,6 @@
 ![freeCodeCampLogo](https://opensource.freecodecamp.org/design-style-guide/img/fcc_primary_large.svg)
 
-# 📽️ Current video courses progress 5/14| 12:16:35 / 51:03:39
+# 📽️ Current video courses progress 6/14| 14:12:51 / 51:03:39
 
 # 📝 Current article progress 2/3 | 0:14:23 / 0:20:08
 
@@ -23,8 +23,8 @@
 # 🦀📽️ Rust 1/1 | 1:25:37 / 1:25:37
 - [x] 📽️ Rust Programming Course for Beginners - Tutorial | 1:25:37
 
-# ⭕📽️ Big O Notation 0/1 | 0:00:00 / 1:56:16
-- [ ] 📽️ Big O Notation - Full Course | 1:56:16
+# ⭕📽️ Big O Notation 1/1 | 1:56:16 / 1:56:16
+- [x] 📽️ Big O Notation - Full Course | 1:56:16
 
 # 🥾📽️ Bootstrap 0/1 | 0:00:00 / 2:46:22
 - [ ] 📽️ Bootstrap CSS Framework - Full Course for Beginners | 2:46:22
@@ -313,24 +313,24 @@
     - [x] (1:17:30) Using the Image Combiner
     - [x] (1:18:20) Better Error Handling
 
-## ⭕ Big O Notation 0/1 ⬜
+## ⭕ Big O Notation 1/1 ✔️
 [![BigONotationThumbnail](https://i3.ytimg.com/vi/Mo4vesaut8g/mqdefault.jpg)](https://youtu.be/Mo4vesaut8g)
-- [ ] [📽️ Big O Notation - Full Course | 1:56:16](https://youtu.be/Mo4vesaut8g)
-    - [ ] (0:00:00) Intro
-    - [ ] (0:00:39) What Is Big O?
-    - [ ] (0:07:08) O(n^2) Explanation
-    - [ ] (0:14:06) O(n^3) Explanation
-    - [ ] (0:26:29) O(log n) Explanation Recursive
-    - [ ] (0:31:12) O(log n) Explanation Iterative
-    - [ ] (0:36:08) O(log n) What Is Binary Search?
-    - [ ] (0:41:30) O(log n) Coding Binary Search
-    - [ ] (0:58:12) O(n log n) Explanation
-    - [ ] (1:02:50) O(n log n) Coding Merge Sort
-    - [ ] (1:17:04) O(n log n) Merge Sort Complexity Deep Dive
-    - [ ] (1:28:06) O(2^n) Explanation With Fibonacci
-    - [ ] (1:36:02) O(n!) Explanation
-    - [ ] (1:47:19) Space Complexity & Common Mistakes
-    - [ ] (1:55:53) End
+- [x] [📽️ Big O Notation - Full Course | 1:56:16](https://youtu.be/Mo4vesaut8g)
+    - [x] (0:00:00) Intro
+    - [x] (0:00:39) What Is Big O?
+    - [x] (0:07:08) O(n^2) Explanation
+    - [x] (0:14:06) O(n^3) Explanation
+    - [x] (0:26:29) O(log n) Explanation Recursive
+    - [x] (0:31:12) O(log n) Explanation Iterative
+    - [x] (0:36:08) O(log n) What Is Binary Search?
+    - [x] (0:41:30) O(log n) Coding Binary Search
+    - [x] (0:58:12) O(n log n) Explanation
+    - [x] (1:02:50) O(n log n) Coding Merge Sort
+    - [x] (1:17:04) O(n log n) Merge Sort Complexity Deep Dive
+    - [x] (1:28:06) O(2^n) Explanation With Fibonacci
+    - [x] (1:36:02) O(n!) Explanation
+    - [x] (1:47:19) Space Complexity & Common Mistakes
+    - [x] (1:55:53) End
 
 ## 🥾 Bootstrap 0/1 ⬜
 [![BootstrapCSSFrameworkThumbnail](https://i3.ytimg.com/vi/-qfEOE4vtxE/mqdefault.jpg)](https://youtu.be/-qfEOE4vtxE)
