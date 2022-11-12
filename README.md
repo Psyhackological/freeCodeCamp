@@ -1,6 +1,6 @@
 ![freeCodeCampLogo](https://opensource.freecodecamp.org/design-style-guide/img/fcc_primary_large.svg)
 
-# 📽️ Current video courses progress 6/14| 14:12:51 / 51:03:39
+# 📽️ Current video courses progress 6/16| 14:12:51 / 56:43:11
 
 # 📝 Current article progress 2/3 | 0:14:23 / 0:20:08
 
@@ -29,8 +29,10 @@
 # 🥾📽️ Bootstrap 0/1 | 0:00:00 / 2:46:22
 - [ ] 📽️ Bootstrap CSS Framework - Full Course for Beginners | 2:46:22
 
-# 🐳📽️ Docker 0/2 | 0:00:00 / 8:06:56
+# 🐳📽️ Docker 0/3 | 0:00:00 / 13:11:07
 - [ ] 📽️ Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers | 2:10:19
+- [ ] 📽️ Docker Containers and Kubernetes Fundamentals – Full Hands-On Course | 5:56:37
+- [ ] 📽️ Microservice Architecture and System Design with Python & Kubernetes – Full Course | 5:04:11
 
 # 🐳📝 Docker 0/1 | 0:00:00 / 0:05:45
 - [ ] 📝 What is Docker? Learn How to Use Containers – Explained with Examples | 0:05:45
@@ -337,7 +339,8 @@
 - [ ] [📽️ Bootstrap CSS Framework - Full Course for Beginners | 2:46:22](https://youtu.be/-qfEOE4vtxE)
     - [ ] (0:00:00) Introduction
     - [ ] (0:01:58) What is Bootstrap?
-    - [ ] (0:02:50) Why use Bootstrap? [ ] (0:05:21) Download compiled CSS and JS
+    - [ ] (0:02:50) Why use Bootstrap?
+    - [ ] (0:05:21) Download compiled CSS and JS
     - [ ] (0:09:42) Install via CDN
     - [ ] (0:11:40) NPM installation
     - [ ] (0:15:00) Grid System
@@ -354,7 +357,7 @@
     - [ ] (2:20:54) Other components
     - [ ] (2:30:30) Let's build a webpage!
 
-## 🐳📽️ Docker 0/2 ⬜⬜
+## 🐳📽️ Docker 0/3 ⬜⬜⬜
 [![DockerTutorialforBeginnersThumbnail](https://i3.ytimg.com/vi/fqMOX6JJhGo/mqdefault.jpg)](https://youtu.be/fqMOX6JJhGo)
 - [ ] [📽️ Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers | 2:10:19](https://youtu.be/fqMOX6JJhGo)
     - [ ] (0:00:00) Introduction
@@ -499,6 +502,38 @@
     - [ ] 5:55:22 Conclusion
         - Course Conclusion
 
+[![MicroserviceArchitectureandSystemDesignwithPythonKubernetesThumbnail](https://i3.ytimg.com/vi/hmkF77F9TLw/mqdefault.jpg)](https://youtu.be/hmkF77F9TLw)
+- [ ] [📽️ Microservice Architecture and System Design with Python & Kubernetes – Full Course | 5:04:11](https://youtu.be/hmkF77F9TLw)
+    - [ ] (0:00:00) Intro
+    - [ ] (0:01:02) Overview 
+    - [ ] (0:02:47) Installation & Setup?
+    - [ ] (0:10:16) Auth Service Code
+    - [ ] (0:32:25) Auth Flow Overview & JWTs
+    - [ ] (0:53:04) Auth Service Deployment
+    - [ ] (0:56:08) Auth Dockerfile
+    - [ ] (1:20:05) Kubernetes
+    - [ ] (1:37:26) Gateway Service Code
+    - [ ] (1:42:34) MongoDB & GridFs
+    - [ ] (1:47:04) Architecture Overview (RabbitMQ)
+    - [ ] (1:49:50) Synchronous Interservice Communication
+    - [ ] (1:50:49) Asynchronous Interservice Communication
+    - [ ] (1:53:19) Strong Consistency
+    - [ ] (1:54:07) Eventual Consistency
+    - [ ] (2:19:16) RabbitMQ
+    - [ ] (2:21:16) Gateway Service Deployment
+    - [ ] (2:35:34) Kubernetes Ingress
+    - [ ] (2:46:28) Kubernetes StatefulSet
+    - [ ] (2:51:18) RabbitMQ Deployment
+    - [ ] (3:09:35) Converter Service Code
+    - [ ] (3:33:43) Converter Service Deployment
+    - [ ] (4:21:09) Checkpoint
+    - [ ] (4:22:11) Update Gateway Service
+    - [ ] (4:31:46) Notification Service Code
+    - [ ] (4:43:24) Notification Service Deployment
+    - [ ] (4:51:55) Sanity Check
+    - [ ] (5:05:54) End
+
+
 ## 🐳📝 Docker 0/1 ⬜
 [![WhatIsDocker?Thumbnail](https://www.freecodecamp.org/news/content/images/size/w300/2022/04/how-to-use-docker-containers.png)](https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/)
 - [ ] [📝 What is Docker? Learn How to Use Containers – Explained with Examples | 0:05:45](https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/)
@@ -582,4 +617,4 @@
 - [ ] https://www.freecodecamp.org/news/build-six-quick-python-projects/
 - [ ] https://www.freecodecamp.org/news/why-learning-to-code-is-hard-and-how-to-make-it-easier/
 - [ ] https://www.freecodecamp.org/news/the-linux-commands-handbook/
-
+- [ ] https://www.freecodecamp.org/news/what-are-github-actions-and-how-can-you-automate-tests-and-slack-notifications/

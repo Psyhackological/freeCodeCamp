@@ -130,3 +130,6 @@ dmypy.json
 
 # JetBrains hidden folder
 .idea/
+
+# Obsidian hidden folder
+.obsidian/
