@@ -159,7 +159,7 @@
     - [x] How to Deactivate a Virtual Environment
     - [x] Conclusion
 
-## 🐧 Linux 1/4 ✔️✔️⬜⬜
+## 🐧 Linux 2/4 ✔️✔️⬜⬜
 [![VimTutorialForBeginnersThumbnail](https://i3.ytimg.com/vi/RZ4p-saaQkc/mqdefault.jpg)](https://youtu.be/RZ4p-saaQkc)
 - [x] [📽️ Vim Tutorial for Beginners | 1:14:29](https://youtu.be/RZ4p-saaQkc)
     - [x] (0:00:00) Intro

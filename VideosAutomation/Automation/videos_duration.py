@@ -20,19 +20,19 @@ def read_csv(file_name="videos.csv"):
 
             timedelta_duration = str_to_timedelta(row["duration"])
             duration_dict[tech]["all"] = (
-                    duration_dict.get(tech, {}).get("all", timedelta()) + timedelta_duration
+                duration_dict.get(tech, {}).get("all", timedelta()) + timedelta_duration
             )
             # 0 because 1 is added anyway
             duration_dict[tech]["all_videos"] = (
-                    duration_dict.get(tech, {}).get("all_videos", 0) + 1
+                duration_dict.get(tech, {}).get("all_videos", 0) + 1
             )
             if row["done"] == "True":
                 duration_dict[tech]["done"] = (
-                        duration_dict.get(tech, {}).get("done", timedelta())
-                        + timedelta_duration
+                    duration_dict.get(tech, {}).get("done", timedelta())
+                    + timedelta_duration
                 )
                 duration_dict[tech]["done_videos"] = (
-                        duration_dict.get(tech, {}).get("done_videos", 0) + 1
+                    duration_dict.get(tech, {}).get("done_videos", 0) + 1
                 )
 
         print_duration_dict(duration_dict)
