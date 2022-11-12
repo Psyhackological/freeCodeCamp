@@ -1,6 +1,6 @@
 ![freeCodeCampLogo](https://opensource.freecodecamp.org/design-style-guide/img/fcc_primary_large.svg)
 
-# 📽️ Current video courses progress 6/16| 14:12:51 / 56:43:11
+# 📽️ Current video courses progress 6/14| 14:12:51 / 51:08:53
 
 # 📝 Current article progress 2/3 | 0:14:23 / 0:20:08
 
@@ -14,9 +14,8 @@
 - [x] 📝 Mutable vs Immutable Objects in Python – A Visual and Hands-On Guide | 0:09:05
 - [x] 📝 How to Set Up a Virtual Environment in Python – And Why It's Useful | 0:05:18
 
-# 🐧 Linux 2/4 | 6:14:46 / 13:44:06
+# 🐧 Linux 2/3 | 6:14:46 / 10:56:10
 - [x] 📽️ Vim Tutorial for Beginners | 1:14:29 
-- [ ] 📽️ Linux Operating System - Crash Course for Beginners | 2:47:56 
 - [x] 📽️ The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners | 5:00:17 
 - [ ] 📽️ Linux Essentials for Ethical Hackers - Full InfoSec Course | 4:41:24 
 
@@ -159,29 +158,13 @@
     - [x] How to Deactivate a Virtual Environment
     - [x] Conclusion
 
-## 🐧 Linux 2/4 ✔️✔️⬜⬜
+## 🐧 Linux 2/4 ✔️✔️⬜
 [![VimTutorialForBeginnersThumbnail](https://i3.ytimg.com/vi/RZ4p-saaQkc/mqdefault.jpg)](https://youtu.be/RZ4p-saaQkc)
 - [x] [📽️ Vim Tutorial for Beginners | 1:14:29](https://youtu.be/RZ4p-saaQkc)
     - [x] (0:00:00) Intro
     - [x] (0:25:00) Pomodoro 1
     - [x] (0:50:00) Pomodoro 2
     - [x] (1:14:29) Pomodoro 3
-
-[![LinuxOperatingSystemThumbnail](https://i3.ytimg.com/vi/ROjZy1WbCIA/mqdefault.jpg)](https://youtu.be/ROjZy1WbCIA)
-- [ ] [📽️ Linux Operating System - Crash Course for Beginners | 2:47:56](https://youtu.be/ROjZy1WbCIA)
-    - [ ] (0:00:00) Intro
-    - [ ] (0:08:09) Install Linux
-    - [ ] (0:29:43) Desktop Environment
-    - [ ] (0:41:18) Terminal
-    - [ ] (0:49:25) Working with Directories
-    - [ ] (1:15:49) Working with Files
-    - [ ] (1:34:49) Working with File Content
-    - [ ] (1:51:14) Linux File Structure
-    - [ ] (2:03:68) System Information
-    - [ ] (2:15:42) Networking
-    - [ ] (2:20:10) Linux Package Manager
-    - [ ] (2:34:10) Text Editor
-    - [ ] (2:46:56) Outro
 
 [![The50MostPopularThumbnail](https://i3.ytimg.com/vi/ZtqBQ68cfJc/mqdefault.jpg)](https://youtu.be/ZtqBQ68cfJc)
 - [x] [📽️ The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners | 5:00:17](https://youtu.be/ZtqBQ68cfJc)
@@ -333,29 +316,6 @@
     - [x] (1:36:02) O(n!) Explanation
     - [x] (1:47:19) Space Complexity & Common Mistakes
     - [x] (1:55:53) End
-
-## 🥾 Bootstrap 0/1 ⬜
-[![BootstrapCSSFrameworkThumbnail](https://i3.ytimg.com/vi/-qfEOE4vtxE/mqdefault.jpg)](https://youtu.be/-qfEOE4vtxE)
-- [ ] [📽️ Bootstrap CSS Framework - Full Course for Beginners | 2:46:22](https://youtu.be/-qfEOE4vtxE)
-    - [ ] (0:00:00) Introduction
-    - [ ] (0:01:58) What is Bootstrap?
-    - [ ] (0:02:50) Why use Bootstrap?
-    - [ ] (0:05:21) Download compiled CSS and JS
-    - [ ] (0:09:42) Install via CDN
-    - [ ] (0:11:40) NPM installation
-    - [ ] (0:15:00) Grid System
-    - [ ] (0:37:01) Buttons
-    - [ ] (0:42:25) Cards
-    - [ ] (0:57:53) Typography
-    - [ ] (1:12:37) Responsive images
-    - [ ] (1:18:29) Utilities
-    - [ ] (1:37:52) Tables
-    - [ ] (1:41:44) Alerts 
-    - [ ] (1:50:08) Navs & Navbars
-    - [ ] (2:04:58) Icons
-    - [ ] (2:09:14) Forms
-    - [ ] (2:20:54) Other components
-    - [ ] (2:30:30) Let's build a webpage!
 
 ## 🐳📽️ Docker 0/3 ⬜⬜⬜
 [![DockerTutorialforBeginnersThumbnail](https://i3.ytimg.com/vi/fqMOX6JJhGo/mqdefault.jpg)](https://youtu.be/fqMOX6JJhGo)

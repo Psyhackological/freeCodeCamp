@@ -68,6 +68,6 @@ class Article:
 
 
 article1 = Article(
-    "https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/"
+    "https://www.freecodecamp.org/news/what-are-github-actions-and-how-can-you-automate-tests-and-slack-notifications/"
 )
 print(f"{article1.title} | {article1}")
